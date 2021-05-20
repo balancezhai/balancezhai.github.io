@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr Xiaojun Zhai"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : #"Lectuer"
+  location         : "Colchester"
+  employer         : University of Essex
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=xiaojun+zhai"
   googlescholar    : "https://scholar.google.co.uk/citations?user=sLYyja0AAAAJ&hl=en"
   email            :
