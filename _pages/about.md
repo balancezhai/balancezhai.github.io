@@ -19,3 +19,7 @@ Dr Xiaojun Zhai is a Lecturer in Department of Computer Science and Electronic E
 **Our research teams:**
 - [**Embedded Intelligent Systems (EIS) Research Laborotory**](https://eis.essex.ac.uk/)
 - [**Robotics and Embedded Systems**](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/robotics-and-embedded-systems)
+
+**Vacancies**
+- For RA posts, see [University of Essex vacancies](https://www1.essex.ac.uk/vacancies/categories.aspx?jobtype=education).
+- For Funded PhD Studentships, if you are an excellent and hard working student, please send (a) your CV, (b) transcripts of your grades, (c) copies of papers you have published, (d) a project proposal linked to my research projects and interests and (e) the name of two referees, to xzhai at essex.ac.uk
