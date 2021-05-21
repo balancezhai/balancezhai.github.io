@@ -17,3 +17,4 @@ Dr Xiaojun Zhai is a Lecturer in Department of Computer Science and Electronic E
 - Hardware acceleration of computationally intensive DSP algorithms using FPGAs
 
 [**Embedded Intelligent Systems (EIS) Research Laborotory**](https://eis.essex.ac.uk/)
+[**Robotics and Embedded Systems**](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/robotics-and-embedded-systems)
