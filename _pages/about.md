@@ -15,3 +15,5 @@ Dr Xiaojun Zhai is a Lecturer in Department of Computer Science and Electronic E
 - Advanced embedded processor architectures targeted for automotive/industrial, robotics, image processing, sensor network nodes and other real-time critical applications
 - High-performance data and image processing in heterogeneous embedded systems
 - Hardware acceleration of computationally intensive DSP algorithms using FPGAs
+
+[**Embedded Intelligent Systems (EIS) Research Laborotory**](https://eis.essex.ac.uk/)
