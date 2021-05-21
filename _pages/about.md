@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "under development"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
+Dr Xiaojun Zhai is a Lecturer in Department of Computer Science and Electronic Engineering at the University of Essex, Essex, UK. His research interest primarily focuses on the fields of high performance reconfigurable computing using Field Programmable Gate Arrays (FPGAs). He is a Fellow of High Education Association (FHEA) and a Professional Member of British Computer Science (MBCS).  
+Core Research Interests:
+Embedded Systems and System-on-Chip (SoC) design, for increasing security, power, performance and reliability
+Advanced embedded processor architectures targeted for automotive/industrial, robotics, image processing, sensor network nodes and other real-time critical applications
+High-performance data and image processing in heterogeneous embedded systems
+Hardware acceleration of computationally intensive DSP algorithms using FPGAs
