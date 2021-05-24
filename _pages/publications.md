@@ -42,7 +42,8 @@ author_profile: true
 - X. Zhai, F. Bensaali, “Improved Number Plate Character Segmentation Algorithm and Its Efficient FPGA Implementation”, Springer Journal of Real-time Image Processing, Springer, DOI: 10.1007/s11554-012-0258-5, pp. 1-13, June, 2012. 
 
 **Conference Papers and book chapters:**
-- Aslam, B., Saha, S., Zaffar, M., Ehsan, S., Zhai, X., Cazzaniga, C., Frost, C., McDonald-Maier, K. and Stolkin, R., Measuring the Degradation of Commercial Cameras Under Fast Neutron Beam
+- Aslam, B., Saha, S., Zaffar, M., Ehsan, S., Zhai, X., Cazzaniga, C., Frost, C., McDonald-Maier, K. and Stolkin, R., Measuring the Degradation of Commercial Cameras Under Fast Neutron Beam. n: Single Event Effects (SEE) Symposium coupled with the Military and Aerospace Programmable Logic Devices (MAPLD) Workshop, 2019-05-20 - 2019-05-23, San Diego, CA.
+- Boukhennoufa, I., Zhai, X., Utti, V., McDonald-Maier, K. and Jackson, J., (2021). Improving the activity recognition using GMAF and transfer learning in post-stroke rehabilitation assessment, In: SAMI 2021- IEEE 19th World Symposium on Applied Machine Intelligence and Informatics, 2021-01-21 - 2021-01-23, Herl'any, Slovakia (virtual).
 - Wachter, E., Kasap, S., Zhai, X., Ehsan, S. and McDonald-Maier, K., A Framework and Protocol for Dynamic Management of Fault Tolerant Systems in Harsh Environments
 - Lu, Y., Zhai, X., Saha, S., Ehsan, S. and McDonald-Maier, K., A self-scrubbing scheme for embedded systems in radiation environments
 - Aslam, B., Saha, S., Khanam, Z., Zhai, X., Ehsan, S., Stolkin, R. and McDonald-Maier, K., (2020). Gamma-induced Degradation Analysis of Commercial off-the-shelf Camera Sensors
