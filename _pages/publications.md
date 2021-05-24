@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Journal Articles:
+**Journal Articles:**
 - Y. Wang; E. Hannon; O. A Grant; T. J Gorrie-Stone; M. Kumari; J. Mill; X. Zhai; K. D McDonald-Maier; L. C Schalkwyk, “DNA methylation-based sex classifier to predict sex and identify sex chromosome aneuploidy”, BMC Genomics, accepted in 2021. 
 - S. Saha, X.Zhai, S. Ehsan, S. Majeed, and K. D. McDonald-Maier, “RASA: Reliability-Aware Scheduling Approach for FPGA-Based Resilient Embedded Systems in Extreme Environments”, IEEE Transactions on Systems, Man, and Cybernetics: Systems, in press, 2021. [Open Access Repository](http://repository.essex.ac.uk/30370/)
 - Lu, Y., Chen, X., Zhai, X., Saha, S., Ehsan, S., Su, J. and McDonald-Maier, K., “A Fast Simulation Method for Analysis of SEE in VLSI”. Microelectronics Reliability. 120, 114110-114110, 2021. [Open Access Repository](http://repository.essex.ac.uk/30086/)
@@ -27,22 +27,21 @@ Journal Articles:
 - Djelouat, H., Zhai, X., Disi, MA., Amira, A. and Bensaali, F., (2018). System-on-Chip Solution for Patients Biometric: A Compressive Sensing-Based Approach. IEEE Sensors Journal. 18 (23), 9629-9639. [Open Access Repository](http://repository.essex.ac.uk/23264/)
 - X. Zhai, M. Eslami, E. Hussein, M. Filali, S. Shalaby, A. Amira, F. Bensaali, S. Dakuad, J. Abinahedd, A. Al-Ansarid, A. Ahmede, “Real-time automated image segmentation technique for cerebral aneurysm on reconfigurable system-on-chip”, Elsevier Journal of Computational Science, 27. 35 - 45. ISSN 1877-7503, 2018.  [Open Access Repository](http://repository.essex.ac.uk/23082/)
 - A. Farhat, O. Hommos, A. Al-Zawqari, A. Al-Qahtani, F. Bensaali, A. Amira and X. Zhai, “Optical Character Recognition on Heterogeneous SoC for HD Automatic Number Plate Recognition System”, EURASIP Journal on Image and Video Processing, 2018 (1). ISSN 1687-5176. [Open Access Repository](http://repository.essex.ac.uk/23083/)
-- H. Baali, X. Zhai, H. Djelouat, A. Amira, and F. Bensaali, “Inequality Indexes as Sparsity Measures Applied to Ventricular Ectopic Beats Detection and its Efficient Hardware Implementation”, IEEE Access, vol. 6, pp. 9464-9472, 2018. 
+- H. Baali, X. Zhai, H. Djelouat, A. Amira, and F. Bensaali, “Inequality Indexes as Sparsity Measures Applied to Ventricular Ectopic Beats Detection and its Efficient Hardware Implementation”, IEEE Access, vol. 6, pp. 9464-9472, 2018. [Open Access Repository](http://repository.essex.ac.uk/23086/)
 - N. Bessis, X. Zhai, S. Sotiriadis, “Service-Oriented System Engineering”, Elsevier Future Generation Computer Systems, Vol. 80, 2018, pp. 211-214. 
-- A. Al-Zawqari, O. Hommos, A. Al-Qahtani, A. Farhat, F. Bensaali, X. Zhai and A. Amira, “HD Number Plate Localization and Character Segmentation on the Zynq Heterogeneous SoC”, Springer Journal of Real-time Image Processing, 2017, in press. 
-- X. Zhai, A. Ait Si Ali, A. Amira and F.  Bensaali, “ECG Encryption and Identification based Security Solution on the Zynq SoC for Connected Health Systems”, Elsevier Journal of Parallel and Distributed Computing, in press, 2017. 
+- X. Zhai, A. Ait Si Ali, A. Amira and F.  Bensaali, “ECG Encryption and Identification based Security Solution on the Zynq SoC for Connected Health Systems”, Elsevier Journal of Parallel and Distributed Computing, 106. 143 - 152. ISSN 0743-7315, 2017. [Open Access Repository](http://repository.essex.ac.uk/23087/)
 - X. Zhai, A. Ait-Si-Ali, A. Amira, F. Bensaali, "MLP Neural Network Based Gas Classification System on Zynq SoC," IEEE Access, Vol. 4, pp.8138-8146, 2016. 
-- Z. Zhong, K. Chen, X. Zhai, S. Zhou, “Virtual Machine Based Task Scheduling Algorithm in Cloud Computing Environment”, Tsinghua Science and Technology, Vol. 21, Issue 6, pp.660-667, 2016. 
-- X. Zhai and Tanya Vladimirova, "Efficient Data Processing Algorithms for Wireless Sensor Networks based Planetary Exploration", AIAA Journal of Aerospace Information Systems, Vol.13, No. 1, 2016, pp.46-66. 
+- Z. Zhong, K. Chen, X. Zhai, S. Zhou, “Virtual Machine Based Task Scheduling Algorithm in Cloud Computing Environment”, Tsinghua Science and Technology, Vol. 21, Issue 6, pp.660-667, 2016. [Open Access Repository](http://repository.essex.ac.uk/23088/)
+- X. Zhai and Tanya Vladimirova, "Efficient Data Processing Algorithms for Wireless Sensor Networks based Planetary Exploration", AIAA Journal of Aerospace Information Systems, Vol.13, No. 1, 2016, pp.46-66. [Open Access Repository](http://repository.essex.ac.uk/23649/)
 - X. Zhai, F. Jaber, F. Bensaali and A. Mishra, “Hardware Acceleration of a Dielectrophoresis System for Achieving a Single-Neuron-Per-Electrode Arrangement in Microelectrode Arrays”, International Journal of Simulation Systems, Science & Technology, Vol. 16, No. 3, 2016.
-- X. Zhai, K. Appiah, S. Ehsan, G. Howells, W. M Cheung, H. Hu, D. Gu, and K. McDonald-Maier, “Exploring ICMetrics to Detect Abnormal Program Behaviour on Embedded Devices”, Elsevier Journal of Systems Architecture, Vol. 61, Issue 8, 2015. 
-- X. Zhai, K. Appiah, S. Ehsan, G. Howells, W. M Cheung, H. Hu, D. Gu, and K. McDonald-Maier, “A Method for Detecting Abnormal Program Behaviour on Embedded Devices”, in IEEE Transactions on Information Forensics and Security, Vol. 10, Issue 8, pp. 1692 – 1704, April, 2015. 
+- X. Zhai, K. Appiah, S. Ehsan, G. Howells, W. M Cheung, H. Hu, D. Gu, and K. McDonald-Maier, “Exploring ICMetrics to Detect Abnormal Program Behaviour on Embedded Devices”, Elsevier Journal of Systems Architecture, Vol. 61, Issue 8, 2015. [Open Access Repository](http://repository.essex.ac.uk/14391/)
+- X. Zhai, K. Appiah, S. Ehsan, G. Howells, W. M Cheung, H. Hu, D. Gu, and K. McDonald-Maier, “A Method for Detecting Abnormal Program Behaviour on Embedded Devices”, in IEEE Transactions on Information Forensics and Security, Vol. 10, Issue 8, pp. 1692 – 1704, April, 2015. [Open Access Repository](http://repository.essex.ac.uk/13498/)
 - X. Zhai, F. Bensaali and R. Sotudeh, “Real-Time Optical Character Recognition on FPGA for ANPR”, in IET Circuits, Devices & Systems, DOI: 10.1049/iet-cds.2012.0339, vol. 7, - issue 6, pp. 337-344, August, 2013. 
 - X. Zhai, F. Bensaali and R. Sotudeh, “FPGA-based Number Plate Binarisation and Adjustment for ANPR Systems”, SPIE Journal of Electronic Imaging, vol. 22, issue 1, pp. 1-11, Jan, 2013. 
 - X. Zhai, F. Bensaali and S. Ramalingam, “Improved Number Plate Localisation Algorithm and its Efficient FPGA Implementation”, in IET Circuits, Devices & Systems, vol.7, issue 2, pp. 93-103, March, 2013. 
 - X. Zhai, F. Bensaali, “Improved Number Plate Character Segmentation Algorithm and Its Efficient FPGA Implementation”, Springer Journal of Real-time Image Processing, Springer, DOI: 10.1007/s11554-012-0258-5, pp. 1-13, June, 2012. 
 
-Conference Papers and book chapters:
+**Conference Papers and book chapters:**
 - Aslam, B., Saha, S., Zaffar, M., Ehsan, S., Zhai, X., Cazzaniga, C., Frost, C., McDonald-Maier, K. and Stolkin, R., Measuring the Degradation of Commercial Cameras Under Fast Neutron Beam
 - Wachter, E., Kasap, S., Zhai, X., Ehsan, S. and McDonald-Maier, K., A Framework and Protocol for Dynamic Management of Fault Tolerant Systems in Harsh Environments
 - Lu, Y., Zhai, X., Saha, S., Ehsan, S. and McDonald-Maier, K., A self-scrubbing scheme for embedded systems in radiation environments
