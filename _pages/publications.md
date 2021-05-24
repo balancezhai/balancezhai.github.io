@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 Journal Articles:
+- Y. Wang; E. Hannon; O. A Grant; T. J Gorrie-Stone; M. Kumari; J. Mill; X. Zhai; K. D McDonald-Maier; L. C Schalkwyk, “DNA methylation-based sex classifier to predict sex and identify sex chromosome aneuploidy”, BMC Genomics, accepted in 2021. 
+- S. Saha, X.Zhai, S. Ehsan, S. Majeed, and K. D. McDonald-Maier, “RASA: Reliability-Aware Scheduling Approach for FPGA-Based Resilient Embedded Systems in Extreme Environments”, IEEE Transactions on Systems, Man, and Cybernetics: Systems, accepted in 2021. 
+- Lu, Y., Chen, X., Zhai, X., Saha, S., Ehsan, S., Su, J. and McDonald-Maier, K., “A Fast Simulation Method for Analysis of SEE in VLSI”. Microelectronics Reliability. 120, 114110-114110, 2021. 
 - Khanam, Z., Aslam, B., Saha, S., Zhai, X., Ehsan, S., Stolkin, R. and McDonald-Maier, K., (2021). Gamma-Induced Image Degradation Analysis of Robot Vision Sensor for Autonomous Inspection of Nuclear Sites. IEEE Sensors Journal, 1-1
 - Ali, H., Tariq, UU., Hussain, M., Lu, L., Panneerselvam, J. and Zhai, X., (2020). ARSH-FATI a Novel Metaheuristic for Cluster Head Selection in Wireless Sensor Networks. IEEE Systems Journal, 1-12
 - Kasap, S., Weber Wachter, E., Zhai, X., Ehsan, S. and McDonald-Maier, K., (2020). Survey of Soft Error Mitigation Techniques Applied to LEON3 Soft Processors on SRAM-Based FPGAs. IEEE Access. 8, 28646-28658
