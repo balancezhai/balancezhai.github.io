@@ -42,10 +42,54 @@ Journal Articles:
 - X. Zhai, F. Bensaali and S. Ramalingam, “Improved Number Plate Localisation Algorithm and its Efficient FPGA Implementation”, in IET Circuits, Devices & Systems, vol.7, issue 2, pp. 93-103, March, 2013. 
 - X. Zhai, F. Bensaali, “Improved Number Plate Character Segmentation Algorithm and Its Efficient FPGA Implementation”, Springer Journal of Real-time Image Processing, Springer, DOI: 10.1007/s11554-012-0258-5, pp. 1-13, June, 2012. 
 
+Conference Papers and book chapters:
+- Aslam, B., Saha, S., Zaffar, M., Ehsan, S., Zhai, X., Cazzaniga, C., Frost, C., McDonald-Maier, K. and Stolkin, R., Measuring the Degradation of Commercial Cameras Under Fast Neutron Beam
+- Wachter, E., Kasap, S., Zhai, X., Ehsan, S. and McDonald-Maier, K., A Framework and Protocol for Dynamic Management of Fault Tolerant Systems in Harsh Environments
+- Lu, Y., Zhai, X., Saha, S., Ehsan, S. and McDonald-Maier, K., A self-scrubbing scheme for embedded systems in radiation environments
+- Aslam, B., Saha, S., Khanam, Z., Zhai, X., Ehsan, S., Stolkin, R. and McDonald-Maier, K., (2020). Gamma-induced Degradation Analysis of Commercial off-the-shelf Camera Sensors
+- Wachter, EW., Kasap, S., Zhai, X., Ehsan, S. and McDonald-Maier, K., (2020). Survey of Lockstep based Mitigation Techniques for Soft Errors in Embedded Systems
+- Djelouat, H., Al Disi, M., Amira, A., Bensaali, F. and Zhai, X., (2019). Compressive Sensing Based ECG Biometric System
+- Liao, Y., Yu, Q., Zhai, X., Ai, Q., Liu, Q. and Zhou, T., (2019). Wireless Big Data Meets WBANs: An Attempt for Cooperative Task Process Assisted with MEC
+- Liao, Y., Qiao, X., Shou, L., Zhai, X., Ai, Q., Yu, Q. and Liu, Q., (2019). Caching-Aided Task Offloading Scheme for Wireless Body Area Networks with MEC
+- Khanam, Z., Saha, S., Aslam, B., Zhai, X., Ehsan, S., Cazzaniga, C., Frost, C., Stolkin, R. and McDonald-Maier, K., (2019). Degradation Measurement of Kinect Sensor Under Fast Neutron Beamline
+- Esfahani, SS., Zhai, X., Chen, M., Amira, A., Bensaali, F., AbiNahed, J., Dakua, S., Younes, G., Richardson, RA. and Coveney, PV., (2019). HEMELB Acceleration and Visualization for Cerebral Aneurysms
+- M. S. Nadeem, V. NL Franqueira, F. Kurugollu, X. Zhai, “WVD: A New Synthetic Dataset for Video-based Violence Detection”, In: AI-2019 Thirty-ninth SGAI International Conference on Artificial Intelligence, 17-19 December 2019, Cambridge, United Kingdom. (In press)
+- S. S. Esfahani, X. Zhai, M. Chen, A. Amira, F. Bensaali, J. AbiNahed, S. Dakua, G. Younes, R. A Richardson, P. Coveney, “VHEMELB Acceleration and Visualization for Cerebral Aneurysms”, 2019 IEEE International Conference on Image Processing (ICIP), pp. 1376-1380, 2019
+- Y. Liao, X. Qiao, L. Shou, X. Zhai, Q. Ai, Q. Yu, Q. Liu, “Caching-Aided Task Offloading Scheme for Wireless Body Area Networks with MEC”, 2019 NASA/ESA Conference on Adaptive Hardware and Systems (AHS), 2019.
+- H. Wang, J. Pannereselvam, L. Liu, Y. Lu, X. Zhai and H. Ali, "Cloud Workload Analytics for Real-Time Prediction of User Request Patterns," 2018 IEEE 20th International Conference on High Performance Computing and Communications; IEEE 16th International Conference on Smart City; IEEE 4th International Conference on Data Science and Systems (HPCC/SmartCity/DSS), Exeter, United Kingdom, 2018, pp. 1677-1684.
+- H. Ali, X. Zhai, U. Tariq, L. Liu, “Energy Efﬁcient Heuristic Algorithm for Task Mapping on Shared-Memory Heterogeneous MPSoCs”, in the proceedings of the 20th IEEE conference on High Performance Computing and Communications, accepted in 2018.
+- H. Ali, U. Tariq, X. Zhai, L. Liu, “Energy Efficient Task Mapping & Scheduling on Heterogeneous NoC-MPSoCs in IoT based Smart City”, in the proceedings of the 16th IEEE conference on Smart City, accepted in 2018.
+- H. Djelouat, M. Disi, X. Zhai, A. Amira, “Compressive Sensing based ECG Biometric System”, in the proceedings of Intelligent Systems Conference (IntelliSys) 2018, accepted in 2018. 
+- H. Baali, X. Zhai, H. Djelouat, A. Amira and F. Bensaali, “Efficient Hardware Implementation of the l1-Regularized Least Squares for IoT Edge Computing”, presented in the 17th edition of the IEEE International Conference on Ubiquitous Wireless Broadband (ICUWB’2017), salamanca, Spain, 2017, pp. 1-5.
+- H. Baali, X. Zhai, H. Djelouat, A. Amira and F. Bensaali, “Design and Acceleration of Sparsifying Transform for Compressed Sensing (CS) of EEG Signal”, in the proceedings of the 2rd International Computational Science and Engineering Conference (ICSEC17), accepted in 2017.
+- A. Farhat, A. Al-Zawqari, O. Hommos, A. Al-Qahtani, F. Bensaali, A. Amira and X. Zhai, “OCR-based Hardware Implementation for Qatari Number Plate on the Zynq SoC”, in the proceedings of the 9th IEEE GCC Conference and Exhibition (GCC), accepted in 2017.
+- A. Ait Si Ali, X. Zhai, A. Amira, F. Bensaali, and N. Ramzan, "Enhanced Biometric Security and Privacy Using ECG on the Zynq SoC," in Biometric Security and Privacy: Opportunities & Challenges in The Big Data Era, R. Jiang, S. Al-maadeed, A. Bouridane, P. D. Crookes, and A. Beghdadi, Eds., ed Cham: Springer International Publishing, 2017, pp. 179-202.
+- A. Al-Zawqari, O. Hommos, A. Al-Qahtani, A. Farhat, F. Bensaali, A. Amira and X. Zhai, “HD Number Plate Localization on the Zynq Heterogeneous SoC”, 2016 IEEE International Conference on Imaging Systems and Techniques (IST), 2016
+- A. A. S. Ali, X. Zhai, A. Amira, F. Bensaali and N. Ramzan, "Heterogeneous Implementation of ECG Encryption and Identification on the Zynq SoC," 2016 IEEE 24th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), Washington, DC, 2016, pp. 139-139.
+- O. Hommos, A. Al-Qahtani, A. Farhat, A. Al-Zawqari, F. Bensaali, A. Amira and X. Zhai, “HD Qatari ANPR system”, 2016 International Conference on Industrial Informatics and Computer Systems (CIICS), 2016, pp.1-5.
+- A. Farhat, A. Al-Zawqari, A. Al-Qahtani, O. Hommos, F. Bensaali, A. Amira and X. Zhai, “OCR Based Feature Extraction and Template Matching Algorithms for Qatari Number Plate”, 2016 International Conference on Industrial Informatics and Computer Systems (CIICS), 2016, pp.1-5.
+- P. Rodrigues, A. Oliveira, P. Sinogas, G. Oddi, F. Lisi, F. Alvarez, R. Cabas, T. Vladimirova, X. Zhai, M. Crosnier. “Testing of a Routing Algorithm for Wireless Sensor Networks with Applications to Planetary Exploration”, Proc. of the 66th International Astronautical Congress (IAC), 12-16 October 2015, Jerusalem, Israel.
+- F. Alvarez, P. Rodrigues, P. Sinogas, A. Oliveira, T. Vladimirova, X. Zhai, F. Liberati, G. Oddi, A. Pietrabissa, M. Crosnier, C. Rivera, D. Millen, L. Moreno. “Low Power Lightweight Micro-Meteorological Station for Wireless Sensor Network Based Space Exploration”, Proc. of the 66th International Astronautical Congress (IAC), 12-16 October 2015, Jerusalem, Israel.
+- F. Bensaali, A. Amira, X. Zhai and Tao Huang, "A Stand-Alone Application for Automatic Bulk Returning of Students’ Reports", Proceedings of the Fourth International Conference on E-Learning and E-Technologies in Education (ICEEE2015), Indonesia, 2015.
+- X. Zhai, A. Amira and F. Bensaali, “ECG Security Identification System on the Zynq SoC Platform”, the 14th IEEE International Conference on Ubiquitous Computing and Communications (IUCC-2015), pp. 1164-1169, 2015.
+- X. Zhai and T. Valdimirova, "Data Aggregation in Wireless Sensor Networks for Lunar Exploration," in The sixth Emerging  Security  Technologies  (EST), Germany, pp. 30-37, 2015. 
+- X. Zhai, F. Jaber, F. Bensaali and A. Mishra, “Hardware Acceleration of an Image Processing System for Dielectrophoretic Loading of Single Neurons Inside Micro-Wells of Microelectrode Arrays”, UKSim-AMSS 17th International Conference on Modelling and Simulation, pp.571-576, March, 2015 (Best paper awards).
+- X. Zhai, H. Jing, and T. Vladimirova, “Multi-Sensor Data Fusion in Wireless Sensor Networks for Planetary Exploration”, in the proceedings of the 9th NASA/ESA Conference on Adaptive Hardware and Systems (AHS-2014), pp. 188 – 195, July, 2014.
+- P. Rodrigues, A. Oliveira, F. Alvarez, R. Cabas, G. Oddi, F. Liberati, T. Vladimirova, X. Zhai, H. Jing, and M. Crosnier, “Space Wireless Sensor Networks (WSNs) for planetary exploration: node and network architectures”, in the proceedings of the 9th NASA/ESA Conference on Adaptive Hardware and Systems (AHS-2014), pp. 180 – 187, July, 2014.
+- X. Zhai, K. Appiah, S. Ehsan, G. Howells, W. M Cheung, H. Hu, D. Gu, and K. McDonald-Maier, “Detecting Compromised Programs for Embedded System Applications”, in Architecture of Computing Systems – ARCS 2014, Springer Lecture Notes in Computer Science (LNCS) series, vol. 8350, pp. 221-232, Feb, 2014.
+- X. Zhai, F. Bensaali and K. McDonald-Maier, “Automatic Number Plate Recognition on FPGA”, in the proceedings of the 20th IEEE International Conference on Electronics, Circuits, and Systems (ICECS), pp. 325-328 Oct. 2013.
+- Z. Jeffrey, X. Zhai, F. Bensaali, R. Sotudeh and A. Ariyaeeinia. (2013). “Automatic Number Plate Recognition System on an ARM-DSP and FPGA Heterogeneous SoC Platforms”, Hot Chips: A Symposium on High Performance Chips, California, USA, August 2013.
+- X. Zhai and F. Bensaali, “Standard Definition ANPR System on FPGA and an Approach to Extend it to HD”, in the proceedings of the 7th IEEE GCC Conference and Exhibition (GCC), pp. 214-219, Nov, 2013.
+- X. Zhai, K. Appiah, S. Ehsan, G. Howells, W. M Cheung, H. Hu, D. Gu, and K. McDonald-Maier, “A Self-Organising Map Based Algorithm for Analysis of ICmetrics Features”, in the proceedings of the 2013 International Conference on Emerging Security Technologies (EST), pp. 93-97, Sep, 2013.
+- X. Zhai, K. Appiah, S. Ehsan, G. Howells, K. McDonald-Maier, H. Hu, D. Gu, and W. M Cheung, “Application of ICmetrics for Embedded System Security”, in the proceedings of the 2013 International Conference on Emerging Security Technologies (EST), pp. 89 – 92, Sep, 2013.
+- K. Appiah, X. Zhai, S. Ehsan, W. M Cheung, H. Hu, D. Gu, K. McDonald-Maier and G. Howells, “Program Counter as an Integrated Circuit Metrics for Secured Program Identification”, in the proceedings of the 2013 International Conference on Emerging Security Technologies (EST), pp. 98-101, Sep, 2013.
+- X. Zhai, F. Bensaali and R. Sotudeh, “OCR-Based Neural Network for ANPR”, in the proceedings of the 2012 IEEE international Conference on Imaging Systems and Techniques, pp. 393-397, Manchester, UK, July 2012.
+- X. Zhai, F. Bensaali and S. Ramalingam, “Real-Time License Plate Localisation on FPGA”, in the proceedings of the 2011 IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), pp. 14-19, Colorado Springs, CO, USA, June 2011.
+- X. Zhai, F. Bensaali and S. Ramalingam, “License Plate Localisation based on Morphological Operations”, the 11th International Conference on Control, Automation, Robotics and Vision, pp. 1128-1132, Singapore, Dec, 2010.
 
-{% if author.googlescholar %}
+% if author.googlescholar %
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+% endif %
 
 {% include base_path %}
 
