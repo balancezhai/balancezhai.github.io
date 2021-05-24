@@ -2,7 +2,7 @@
 title: "Current Teaching Duties"
 collection: teaching
 type: "Undergraduate and Postgraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-3
 venue: "University of Essex, School of Computer Science and Electronic Engineering"
 date: from 09-2018
 location: "Colchester, UK"
