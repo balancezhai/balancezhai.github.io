@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Journal Articles:
 - Khanam, Z., Aslam, B., Saha, S., Zhai, X., Ehsan, S., Stolkin, R. and McDonald-Maier, K., (2021). Gamma-Induced Image Degradation Analysis of Robot Vision Sensor for Autonomous Inspection of Nuclear Sites. IEEE Sensors Journal, 1-1
@@ -41,4 +41,4 @@ Journal Articles:
 - X. Zhai, F. Bensaali and R. Sotudeh, “FPGA-based Number Plate Binarisation and Adjustment for ANPR Systems”, SPIE Journal of Electronic Imaging, vol. 22, issue 1, pp. 1-11, Jan, 2013. 
 - X. Zhai, F. Bensaali and S. Ramalingam, “Improved Number Plate Localisation Algorithm and its Efficient FPGA Implementation”, in IET Circuits, Devices & Systems, vol.7, issue 2, pp. 93-103, March, 2013. 
 - X. Zhai, F. Bensaali, “Improved Number Plate Character Segmentation Algorithm and Its Efficient FPGA Implementation”, Springer Journal of Real-time Image Processing, Springer, DOI: 10.1007/s11554-012-0258-5, pp. 1-13, June, 2012. 
----
+
