@@ -87,9 +87,9 @@ Conference Papers and book chapters:
 - X. Zhai, F. Bensaali and S. Ramalingam, “Real-Time License Plate Localisation on FPGA”, in the proceedings of the 2011 IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), pp. 14-19, Colorado Springs, CO, USA, June 2011.
 - X. Zhai, F. Bensaali and S. Ramalingam, “License Plate Localisation based on Morphological Operations”, the 11th International Conference on Control, Automation, Robotics and Vision, pp. 1128-1132, Singapore, Dec, 2010.
 
-% if author.googlescholar %
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-% endif %
+{% endif %}
 
 {% include base_path %}
 
