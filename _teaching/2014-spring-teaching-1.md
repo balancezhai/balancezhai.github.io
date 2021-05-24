@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Current teaching duties"
 collection: teaching
 type: "Undergraduate and Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
