@@ -1,5 +1,5 @@
 ---
-title: "Current teaching duties"
+title: "Current Teaching Duties"
 collection: teaching
 type: "Undergraduate and Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
