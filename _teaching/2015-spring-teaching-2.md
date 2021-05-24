@@ -1,7 +1,7 @@
 ---
 title: "Past Teaching Duties"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate and Postgraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Derby, Department of Computing and Math"
 date: 07.2015 - 09.2018
