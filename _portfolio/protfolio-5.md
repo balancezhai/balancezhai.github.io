@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/LTB.gif'>"
 collection: portfolio
 ---
 
-**Automated Aneurysm Segmentation on Reconfigurable SoC **
+**Automated Aneurysm Segmentation on Reconfigurable SoC**
 The project aims to implement a real-time automated segmentation technique for cerebral aneurysm on the Zynq SoC to create an virtualised interactive environment for doctor training purposes.
 
 **Lattice Boltzmann on Zynq SoC for Blood Flow Measurements**
