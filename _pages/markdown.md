@@ -26,3 +26,21 @@ redirect_from:
 | Yu Mei | 2018 - 2019   | Resource-Constrained Distributed Machine Learning                         |
 
 ## Undergraduate project students
+
+| Names                   | Years            |                                                              |
+| --------                | ---------------- | ------------------------------------------------------------ |
+| Licong Lou         | 2020 - 2021   | Human pose estimation with deep learning |
+| Zhekai Bian        | 2020 - 2021   | Deep Learning Based Facial Expression Recognition System |
+| Bochen Zhou        | 2020 - 2021   | Embedded visual tracking car |
+| Marc Mclaughlin    | 2020 - 2021   | Wearable sensor-based rehabilitation for use in stroke rehabilitation |
+| Emma Leclercq    | 2019 - 2020   | Calorie tracking application |
+| Mohamad Jad Al Khalil    | 2019 - 2020    | Chip remote measurement and systems assessment |
+| Nabilah Abd Malek    | 2019 - 2020    | Gift-list organiser website for parties |
+| Rene Solzbacher   | 2019 - 2020    | Embedded computer vision using neural networks |
+| Kyle Manning   | 2018 - 2019    | Assessing blood samples for malaria |
+| Wenqi Liu   | 2018 - 2019    | Using Raspberry Pi to Control Lego Robots |
+| Yipeng Shen   | 2018 - 2019    | Human Adaptive Manipulation of Baxter Robot |
+| Garv Sethi  | 2018 - 2019    | Vehicle Tracking App – for Business and Private Use|
+
+
+
