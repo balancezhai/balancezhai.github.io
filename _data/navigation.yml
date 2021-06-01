@@ -18,9 +18,5 @@ main:
  # - title: "CV"
  #   url: /cv/
     
-<<<<<<< HEAD
   - title: "Teams"
-=======
-  - title: "Research Projects"
->>>>>>> fac159402eb593cba2c26fa7e9dcd5908e39a9be
     url: /markdown/
