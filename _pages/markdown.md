@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Reseach teams"
 author_profile: true
 redirect_from: 
   - /md/
