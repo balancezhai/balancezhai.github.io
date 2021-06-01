@@ -13,4 +13,4 @@ To secure program interaction we need to go beyond access privileges and ensure 
 - Design-by-specification will ensure correctness of behaviour, provided that the specification is correct. Debugging a specification-based system, demands the ability to debug the specification at run-time.
 - Debugging system will include continuous diagnostics tools that allow to evaluate the system operation continuously and can identify hardware failure or unusual system behaviour.
 
-![Debugging system]('/images/prop_appctrl_b.png')
+![Debugging system](/images/prop_appctrl_b.png)
