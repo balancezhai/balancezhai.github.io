@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
  
-  - title: "Portfolio"
+  - title: "Research"
     url: /portfolio/
 
 #  - title: "Talks"
@@ -18,5 +18,5 @@ main:
  # - title: "CV"
  #   url: /cv/
     
-  - title: "Guide"
+  - title: "Research Projects"
     url: /markdown/
