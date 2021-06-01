@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## About this project
-This project was supported the Digital Security by Design (DSbD) Programme delivered by UKRI to support the DSbD ecosystem (EPSRC [EP/V000462/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V000462/1), through , in partner with the University of Glasgow and Imperial College London.
+This project was supported the Digital Security by Design (DSbD) Programme delivered by UKRI to support the DSbD ecosystem (EPSRC [EP/V000462/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V000462/1), and in partner with the University of Glasgow and Imperial College London.
 
 ## Key Ideas
 To secure program interaction we need to go beyond access privileges and ensure that a program follows the intended behavioural specification. Because Capabilities say nothing about program behaviour, we will also use Behavioural Types to capture the physical and behavioural structure of application interfaces.
