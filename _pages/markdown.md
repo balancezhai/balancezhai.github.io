@@ -9,7 +9,7 @@ redirect_from:
 
 ## PhD students
 
-| Names                   | Years            |                                                              |
+| Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
 | [Issam Boukhennoufa](https://balancezhai.github.io/portfolio/protfolio-2/) | 2020 - Present   | Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation                          |
 | [Yucheng Wang](https://balancezhai.github.io/portfolio/protfolio-3/)       | 2019 - Present   | Epigenetic machine learning: utilizing DNA methylation patterns to predict age acceleration                          |
@@ -17,7 +17,7 @@ redirect_from:
 
 ## Postgraduate project students
 
-| Names                   | Years            |                                                              |
+| Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
 | Esmat Esha       | 2020 - 2021   | Energy Aware Machine Learning Pruning Algorithm     |
 | Syed Saud Alyassa       | 2019 - 2020   | Zynq SoC Based Deep Learning Network Implementation   |
@@ -27,7 +27,7 @@ redirect_from:
 
 ## Undergraduate project students
 
-| Names                   | Years            |                                                              |
+| Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
 | Licong Lou         | 2020 - 2021   | Human pose estimation with deep learning |
 | Zhekai Bian        | 2020 - 2021   | Deep Learning Based Facial Expression Recognition System |
