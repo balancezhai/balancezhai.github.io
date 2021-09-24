@@ -11,8 +11,8 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
-| [Issam Boukhennoufa](https://www.essex.ac.uk/people/boukh26001/issam-boukhennoufa) | 2020 - Present   | Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation                          |
-| [Yucheng Wang](https://www.essex.ac.uk/people/wangy15006/yucheng-wang)       | 2019 - Present   | Epigenetic machine learning: utilizing DNA methylation patterns to predict age acceleration                          |
+| [Issam Boukhennoufa](https://www.essex.ac.uk/people/boukh26001/issam-boukhennoufa) | 2020 - Present   | Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation(https://balancezhai.github.io/portfolio/protfolio-996/)                          |
+| [Yucheng Wang](https://www.essex.ac.uk/people/wangy15006/yucheng-wang)       | 2019 - Present   | Epigenetic machine learning: utilizing DNA methylation patterns to predict age acceleration(https://balancezhai.github.io/portfolio/protfolio-997/)                          |
 | [Yufan Lu](https://www.essex.ac.uk/people/luyuf22407/yufan-lu)           | 2019 - Present   | Self-adaptive embedded hardware for extreme environments(https://balancezhai.github.io/portfolio/portfolio-995/)     |
 
 ## Postgraduate project students
