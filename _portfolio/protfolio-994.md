@@ -17,3 +17,7 @@ To secure program interaction we need to go beyond access privileges and ensure 
 - Debugging system will include continuous diagnostics tools that allow to evaluate the system operation continuously and can identify hardware failure or unusual system behaviour.
 
 ![Debugging system](/images/prop_appctrl_b.png)
+
+## News
+- 09/2021: Our paper "Design and Implementation of a RISC V Processor  on FPGA" has been accepted by the 17th International Conference on Mobility, Sensing and Networking (MSN 2021)
+- 09/2021: We are presenting at DSbD All Hands event
