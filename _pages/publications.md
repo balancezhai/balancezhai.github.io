@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 **Journal Articles:**
+- H. Ali, UU. Tariq, J. Hardy, X. Zhai, L. Lu, Y. Zheng, F. Bensaali, A. Amira, K. Fatema and N. Antonopoulos. "A survey on system level energy optimisation for MPSoCs in IoT and consumer electronics". Computer Science Review. 41, 100416-100416, 2021. [Open Access Repository](http://repository.essex.ac.uk/30859/)
+- S. Kasap, E.W. Wächter, X. Zhai, S. Ehsan and K.D. McDonald-Maier, "Novel lockstep-based fault mitigation approach for SoCs with roll-back and roll-forward recovery". Microelectronics Reliability, 124, p.114297,  2021. [Open Access Repository](http://repository.essex.ac.uk/30895/)
 - Y. Wang; E. Hannon; O. A Grant; T. J Gorrie-Stone; M. Kumari; J. Mill; X. Zhai; K. D McDonald-Maier; L. C Schalkwyk, “DNA methylation-based sex classifier to predict sex and identify sex chromosome aneuploidy”, BMC Genomics, accepted in 2021. 
 - S. Saha, X.Zhai, S. Ehsan, S. Majeed, and K. D. McDonald-Maier, “RASA: Reliability-Aware Scheduling Approach for FPGA-Based Resilient Embedded Systems in Extreme Environments”, IEEE Transactions on Systems, Man, and Cybernetics: Systems, in press, 2021. [Open Access Repository](http://repository.essex.ac.uk/30370/)
 - Lu, Y., Chen, X., Zhai, X., Saha, S., Ehsan, S., Su, J. and McDonald-Maier, K., “A Fast Simulation Method for Analysis of SEE in VLSI”. Microelectronics Reliability. 120, 114110-114110, 2021. [Open Access Repository](http://repository.essex.ac.uk/30086/)
