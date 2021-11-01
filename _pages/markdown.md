@@ -7,6 +7,11 @@ redirect_from:
   - /markdown.md
 ---
 
+## RA
+| Names                   | Years            | Projects                                                             |
+| --------                | ---------------- | ------------------------------------------------------------ |
+| Sangeet Saha | 2018 - 2021   | [National Centre for Nuclear Robotics](https://balancezhai.github.io/portfolio/protfolio-998/#),[Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)         
+                 |
 ## PhD students
 
 | Names                   | Years            | Projects                                                             |
@@ -30,6 +35,12 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
+| Xuqi Zhu         | 2021 - 2022   | Markerless Human pose estimation using computer vision approach |
+| Shengzhe Huang         | 2021 - 2022   | Human pose estimation using wearable sensors |
+| Jiacheng Zhu         | 2021 - 2022   | RISC-V debug infrastructure on ZC706|
+| Zhaoning Peng         | 2021 - 2022   | RISC-V debug infrastructure based data analysis |
+| Barry Philips         | 2021 - 2022   | RISC-V debug infrastructure on Nexy-4 |
+| Oluwatosin Oluwole    | 2021 - 2022   | Fashion-Stylist application using deep learning |
 | Licong Lou         | 2020 - 2021   | Human pose estimation with deep learning |
 | Zhekai Bian        | 2020 - 2021   | Deep Learning Based Facial Expression Recognition System |
 | Bochen Zhou        | 2020 - 2021   | Embedded visual tracking car |
