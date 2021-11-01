@@ -7,20 +7,20 @@ redirect_from:
   - /markdown.md
 ---
 
-## RA
+## RAs
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
-| Ludovico Poli  | 2021 - present   | [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)         |
-| Sangeet Saha | 2018 - 2021   | 1.[National Centre for Nuclear Robotics](https://balancezhai.github.io/portfolio/protfolio-998/#), 2.[Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)         |
+| [Ludovico Poli](https://uk.linkedin.com/in/ludovico-poli-448340190)  | 2021 - present   | [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)         |
+| [Sangeet Saha](https://uk.linkedin.com/in/sangeet-saha-a677924b) | 2018 - 2021   | 1.[National Centre for Nuclear Robotics](https://balancezhai.github.io/portfolio/protfolio-998/#), 2.[Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)         |
 
 ## PhD students
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
-| Michal Borowski | 2021 - Present   | [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
-| [Issam Boukhennoufa](https://www.essex.ac.uk/people/boukh26001/issam-boukhennoufa) | 2020 - Present   | [Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation](https://balancezhai.github.io/portfolio/protfolio-996/)                          |
-| [Yucheng Wang](https://www.essex.ac.uk/people/wangy15006/yucheng-wang)       | 2019 - Present   | [Epigenetic machine learning: utilizing DNA methylation patterns to predict age acceleration](https://balancezhai.github.io/portfolio/protfolio-997/)                          |
-| [Yufan Lu](https://www.essex.ac.uk/people/luyuf22407/yufan-lu)           | 2019 - Present   | [Self-adaptive embedded hardware for extreme environments](https://balancezhai.github.io/portfolio/portfolio-995/)     |
+| [Michal Borowski](https://www.linkedin.com/in/michal-borowski-521b8790/) | 2021 - Present   | [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
+| [Issam Boukhennoufa](https://www.linkedin.com/in/issam-boukhennoufa/) | 2020 - Present   | [Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation](https://balancezhai.github.io/portfolio/protfolio-996/)                          |
+| [Yucheng Wang](https://www.linkedin.com/in/yucheng-wang-278b921b1/)       | 2019 - Present   | [Epigenetic machine learning: utilizing DNA methylation patterns to predict age acceleration](https://balancezhai.github.io/portfolio/protfolio-997/)                          |
+| [Yufan Lu](https://scholar.google.ae/citations?user=OBZ16uoAAAAJ&hl=en)           | 2019 - Present   | [Self-adaptive embedded hardware for extreme environments](https://balancezhai.github.io/portfolio/portfolio-995/)     |
 
 ## Postgraduate project students
 
