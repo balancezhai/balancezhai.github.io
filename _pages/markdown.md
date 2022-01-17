@@ -11,7 +11,7 @@ redirect_from:
 
 |Names|Years |Projects|
 |---|---|---|
-|[Dr Cong Gao](https://www.linkedin.com/in/%E8%81%AA-%E9%AB%98-3a65a0163/)|2021 - present| [Adaptive Deep Learning Hardware for Embedded Platforms (EP/V034111/1)](https://balancezhai.github.io/portfolio/protfolio-995/#) |
+|[Dr Cong Gao](https://www.linkedin.com/in/%E8%81%AA-%E9%AB%98-3a65a0163/)|2021 - present| [Adaptive Deep Learning Hardware for Embedded Platforms (EP/V034111/1)](https://balancezhai.github.io/portfolio/protfolio-995/) |
 |[Ludovico Poli](https://uk.linkedin.com/in/ludovico-poli-448340190)|2021 - present| [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#) |
 |[Dr Sangeet Saha](https://uk.linkedin.com/in/sangeet-saha-a677924b)|2018 - 2021|1.[National Centre for Nuclear Robotics](https://balancezhai.github.io/portfolio/protfolio-998/#), 2.[Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)|
 
