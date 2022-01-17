@@ -1,6 +1,6 @@
 ---
 title: "Adaptive Deep Learning Hardware for Embedded Platforms (EP/V034111/1)"
-excerpt: "<br/><img src='/images/DPU2.gif'>"
+excerpt: "<br/><img src='/images/dpu2.gif'>"
 collection: portfolio
 ---
 
