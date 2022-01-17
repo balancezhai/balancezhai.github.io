@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Journal Articles:**
+- Lu, Y., Zhai, X., Saha, S., Ehsan, S. and McDonald-Maier, KD., “A Self-adaptive SEU Mitigation Scheme for Embedded Systems in Extreme Radiation Environments”， IEEE Systems Journal, accepted in Jan, 2022.
 - Su, J., Yi, D., Coombes, M., Liu, C., Zhai, X., McDonald-Maier, K., & Chen, W. H. (2022). Spectral analysis and mapping of blackgrass weed by leveraging machine learning and UAV multispectral imagery. Computers and Electronics in Agriculture, 192, 106621. [Open Access Repository](http://repository.essex.ac.uk/31831/)
 - Boukhennoufa, I., Zhai, X., Utti, V., Jackson, J., & McDonald-Maier, K. D. (2022). Wearable sensors and machine learning in post-stroke rehabilitation assessment: A systematic review. Biomedical Signal Processing and Control, 71, 103197. [Open Access Repository](http://repository.essex.ac.uk/31311/)
 - Liew, B. X., Rügamer, D., Zhai, X., Wang, Y., Morris, S., & Netto, K. (2021). Comparing shallow, deep, and transfer learning in predicting joint moments in running. Journal of Biomechanics, 129, 110820.
