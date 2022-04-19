@@ -1,6 +1,6 @@
 ---
 title: "Markerless POSE tracking and anlaysing"
-excerpt: "<br/><img src='/images/pose.gif' width="400">"
+excerpt: "<br/><img src='/images/pose.gif' width='300'>"
 collection: portfolio
 ---
 
