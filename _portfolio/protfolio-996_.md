@@ -6,7 +6,7 @@ collection: portfolio
 
 Traditionally, gait parameters analysis needs expensive equipment and professionals to gather data from patients, which means they are time-consuming and expensive tasks. Therefore, a system that can analyse gait parameters using light vision based approach is desired.
 
-This project is about building a reliable computer vision based processing system to analyse human gait parameters using Mediapipe (A Python library for extracting body joint points provided by Google), which will provide basic clinical data for specialists to have further analysis, for example, providing a rough estimate the recovery progress for the patient with related disease. 
+This project is led by Xuqi Zhu who is a final year CSEE student at University of Essex, and jointly supervised by Dr Bernard Liew and myself, it is about building a reliable computer vision based processing system to analyse human gait parameters using Mediapipe (A Python library for extracting body joint points provided by Google), which will provide basic clinical data for specialists to have further analysis, for example, providing a rough estimate the recovery progress for the patient with related disease. 
 
 ## BlazePose
 The joint angle is one of the important kinematic parameters in human gait analysis, we use [BlazePose](https://arxiv.org/abs/2006.10204) (i.e. a dedicated lightweight deep learning architecture) to predict key points of human body in this project.
