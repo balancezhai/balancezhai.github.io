@@ -1,6 +1,6 @@
 ---
 title: "National Centre for Nuclear Robotics "
-excerpt: "<br/><img src='/images/ncnr.gif'>"
+excerpt: "<br/><img src='/images/ncnr.gif'  width='600'>"
 collection: portfolio
 ---
 

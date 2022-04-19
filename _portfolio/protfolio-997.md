@@ -1,6 +1,6 @@
 ---
 title: "Epigenetic machine learning - utilizing DNA methylation patterns to predict age acceleration"
-excerpt: "<br/><img src='/images/DNA.png'>"
+excerpt: "<br/><img src='/images/DNA.png'  width='600'>"
 collection: portfolio
 ---
 

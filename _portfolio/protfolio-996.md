@@ -1,6 +1,6 @@
 ---
 title: "Rehabilitation exercise assessment platform for use in post stroke rehabilitation"
-excerpt: "<br/><img src='/images/stroke1.gif'>"
+excerpt: "<br/><img src='/images/stroke1.gif'  width='600'>"
 collection: portfolio
 ---
 
