@@ -1,6 +1,6 @@
 ---
 title: "AppControl: Enforcing Application Behaviour through Type-Based Constraints (EP/V000462/1)"
-excerpt: "<br/><img src='/images/prop_appctrl_iv.png'>"
+excerpt: "<br/><img src='/images/prop_appctrl_iv.png' width='600'>"
 collection: portfolio
 ---
 
