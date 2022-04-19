@@ -11,7 +11,7 @@ This project is about building a reliable computer vision based processing syste
 ## BlazePose
 The joint angle is one of the important kinematic parameters in human gait analysis, we use [BlazePose](https://arxiv.org/abs/2006.10204) (i.e. a dedicated lightweight deep learning architecture) to predict key points of human body in this project.
 
-<img src="./images/body_landmarks.png" width="400">
+<img src="/images/body_landmarks.png" width="400">
 <img src="../images/skeleton.png" width="400">
 <img src="../images/walking2.gif" width="400">
 
