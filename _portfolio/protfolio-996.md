@@ -9,6 +9,7 @@ The aim of this project is to develop an effective post-stroke rehabilitation pl
 The project team has already started the early research work with the nationally top-rated Stroke Unit at Colchester General Hospital. We will continually collaborate with the clinicians, physiotherapists, and engineers for the proposed study. 
 
 ## News
+- 04/2022: Our paper "[Predicting the internal knee abduction impulse during walking using deep learning]" has been accepted in Frontiers in Bioengineering and Biotechnology, section Biomechanics. This was a joint work together with Dr Bernard Liew from School of Sport, Rehabilitation and Exercise Sciences at University of Essex.
 - 10/2021: Our paper "[Wearable sensors and machine learning in post-stroke rehabilitation assessment: A systematic review](https://www.sciencedirect.com/science/article/pii/S1746809421007941)" has been accepted in Biomedical Signal Processing and Control.
 - 09/2021: Our clinical trial request has been accepted and supported by East Suffolk and North Essex NHS Foundation Trust.
 - 07/2021: Our paper "A comprehensive evaluation of state-of-the-art time-series deep learning models for activity-recognition in post-stroke rehabilitation assessment" has been accepted in the 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society.
