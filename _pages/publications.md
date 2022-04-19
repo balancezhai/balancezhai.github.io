@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 **Journal Articles:**
-- Wang, Yucheng, Jinya Su, Xiaojun Zhai, Fanlin Meng, and Cunjia Liu. 2022. "Snow Coverage Mapping by Learning from Sentinel-2 Satellite Multispectral Images via Machine Learning Algorithms" Remote Sensing 14, no. 3: 782. [Open Access Repository](https://doi.org/10.3390/rs14030782)
+- Sangeet Saha, Shounak Chakraborty, Xiaojun Zhai, Shoaib Ehsan, Klaus McDonald-Maier, "ACCURATE: Accuracy Maximization for Real-Time Multi-core systems with Energy Efficient Way-sharing Caches", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, in press. [Open Access Repository](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9739790)
+- Y. Wang, J. Su, X. Zhai, F. Meng, and C. Liu, "Snow Coverage Mapping by Learning from Sentinel-2 Satellite Multispectral Images via Machine Learning Algorithms" Remote Sensing 14, no. 3: 782, 2022. [Open Access Repository](https://doi.org/10.3390/rs14030782)
 - Lu, Y., Zhai, X., Saha, S., Ehsan, S. and McDonald-Maier, KD., “A Self-adaptive SEU Mitigation Scheme for Embedded Systems in Extreme Radiation Environments”， IEEE Systems Journal, accepted in Jan, 2022. [Open Access Repository](http://repository.essex.ac.uk/32023/)
 - Su, J., Yi, D., Coombes, M., Liu, C., Zhai, X., McDonald-Maier, K., & Chen, W. H. (2022). Spectral analysis and mapping of blackgrass weed by leveraging machine learning and UAV multispectral imagery. Computers and Electronics in Agriculture, 192, 106621. [Open Access Repository](http://repository.essex.ac.uk/31831/)
 - Boukhennoufa, I., Zhai, X., Utti, V., Jackson, J., & McDonald-Maier, K. D. (2022). Wearable sensors and machine learning in post-stroke rehabilitation assessment: A systematic review. Biomedical Signal Processing and Control, 71, 103197. [Open Access Repository](http://repository.essex.ac.uk/31311/)
