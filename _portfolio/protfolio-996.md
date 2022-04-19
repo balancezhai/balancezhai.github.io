@@ -1,5 +1,5 @@
 ---
-title: "Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation"
+title: "Rehabilitation exercise assessment platform for use in stroke rehabilitation"
 excerpt: "<br/><img src='/images/stroke1.gif'>"
 collection: portfolio
 ---
