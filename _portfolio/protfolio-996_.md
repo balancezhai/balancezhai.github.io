@@ -1,17 +1,48 @@
 ---
-title: "Markerless POSE tracking and anlaysing"
+title: "Markerless pose tracking and anlaysing"
 excerpt: "<br/><img src='/images/pose.gif'  width='600'>"
 collection: portfolio
 ---
 
-In the UK approximately 100,000 people have strokes each year (stroke strikes once every five minutes on average) and there are an estimated 1.2 million stroke survivors in the UK. Rehabilitation processes to enable motor recovery of the body, including functional rehabilitation therapies and exercises, are an essential part of patient care. These must be combined with well-coordinated multidisciplinary stroke rehabilitation provision, including via early support discharge teams. Efficient communication to evaluate degree of impairment and to enable bespoke individualisation of rehabilitation therapies, with coordination of monitoring and feedback between clinicians, stroke patients and their families, is essential to achieve best post-stroke rehabilitation success.  
-The aim of this project is to develop an effective post-stroke rehabilitation platform which provides continuous and real-time assistance for both stroke survivors as well as their healthcare providers. This rehabilitation platform will consist of a set of wearable devices using artificial intelligence (AI) algorithms to monitor patient’s rehabilitation process and provide real-time assessment and feedback. Unlike cumbersome traditional video-based activity monitoring systems, our solution uses non-invasive wearable sensing technology in conjunction with state-of-the-art AI algorithms to both recognise and analyse post-stroke patient’s physical activities. It will provide useful feedback to patients and clinicians: an accurate and quantified assessment of the exercises which permits secure monitoring the progress and safeguard patient privacy.
-The project team has already started the early research work with the nationally top-rated Stroke Unit at Colchester General Hospital. We will continually collaborate with the clinicians, physiotherapists, and engineers for the proposed study. 
+Traditionally, gait parameters analysis needs expensive equipment and professionals to gather data from patients, which means they are time-consuming and expensive tasks. Therefore, a system that can analyse gait parameters using light vision based approach is desired.
+
+This project is about building a reliable computer vision based processing system to analyse human gait parameters using Mediapipe (A Python library for extracting body joint points provided by Google), which will provide basic clinical data for specialists to have further analysis, for example, providing a rough estimate the recovery progress for the patient with related disease. 
+
+## BlazePose
+The joint angle is one of the important kinematic parameters in human gait analysis, we use [BlazePose](https://arxiv.org/abs/2006.10204) (i.e. a dedicated lightweight deep learning architecture) to predict key points of human body in this project.
+
+<img src="../images/body_landmarks.png" width="400">
+<img src="../images/skeleton.png" width="400">
+<img src="../images/walking2.gif" width="400">
+
+
+## Kalman Filter
+Due to limited accuracy of the prediction model and body overlapped, it is inevitable to avoid detection failed during target movement. But most of the time, the target loss only occurs in a short period of time, therefore, a Kalman filter is introduced to correct the target's state prediction.
+
+<img src="../images/KF.png" width="400">
+
+KF performance with different α and β (joint visibility threshold = 0.4
+
+<img src="../images/KF_knee_left_24.png" width="400">
+<img src="../images/KF_knee_left_35.png" width="400">
+
+## Filter based on Discrete Time Fourier Transform
+Although the KF algorithm can solve joint angle loss when joint visibility below the threshold, it has limited effects on removing extreme values and waveform distortion. Thus, the time series signal needs further filtering to drop noise and smooth the curve. Usually, the extreme values and waveform distortion were caused by noises with relative low energy in energy density spectrum. In order to pick the necessary frequency components and reduce the noise. The Fast Fourier Transform (FFT) is applied to transform time series signal into frequency domain for constructing a filter based on energy density distribution. After filtering the noise, the signal needs be recovered from frequency domain, that required inverse option of the FFT to reconstruct the filtered signal in time
+domain. 
+
+<img src="../images/DTFTIDTFT.png" width="400">
+
+F_PG1_Subject_40_L knee joint angle signal on frequency domain
+
+<img src="../images/FrequencyDomain_40_Left.png" width="400">
+<img src="../images/FrequencyDomain_40_right.png" width="400">
+
+Compare performance of two strategies(Pick 5 frequency components)
+
+<img src="../images/DFT_F_v3d_Subject_39.png" width="400">
+<img src="../images/DFT_F_v3d_Subject_40.png" width="400">
+
 
 ## News
-- 04/2022: Our paper "[Predicting the internal knee abduction impulse during walking using deep learning]" has been accepted in Frontiers in Bioengineering and Biotechnology, section Biomechanics. This was a joint work together with [Dr Bernard Liew](https://www.essex.ac.uk/people/liewb27501/bernard-liew) from School of Sport, Rehabilitation and Exercise Sciences at University of Essex.
-- 10/2021: Our paper "[Wearable sensors and machine learning in post-stroke rehabilitation assessment: A systematic review](https://www.sciencedirect.com/science/article/pii/S1746809421007941)" has been accepted in Biomedical Signal Processing and Control.
-- 09/2021: Our clinical trial request has been accepted and supported by East Suffolk and North Essex NHS Foundation Trust.
-- 07/2021: Our paper "A comprehensive evaluation of state-of-the-art time-series deep learning models for activity-recognition in post-stroke rehabilitation assessment" has been accepted in the 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society.
-- 12/2020: Our paper "[Improving the activity recognition using GMAF and transfer learning in post-stroke rehabilitation assessment](http://repository.essex.ac.uk/29367/)" has been accepted in the IEEE 19th World Symposium on Applied Machine Intelligence and Informatics.
+
 
