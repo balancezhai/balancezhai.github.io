@@ -1,6 +1,6 @@
 ---
-title: "Rehabilitation exercise assessment platform for use in post stroke rehabilitation"
-excerpt: "<br/><img src='/images/stroke1.gif'>"
+title: "Markerless POSE tracking and anlaysing"
+excerpt: "<br/><img src='/images/pose.gif'>"
 collection: portfolio
 ---
 
