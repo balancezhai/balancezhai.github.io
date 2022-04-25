@@ -1,6 +1,6 @@
 ---
 title: "Computer Enabled Radiological Resource for Blood Flow Rates in Aneurysms Using Lattice-Boltzmann"
-excerpt: "<br/><img src='/images/LTB.gif  width='600''>"
+excerpt: "<br/><img src='/images/LTB.gif  width='600'>"
 collection: portfolio
 ---
 
