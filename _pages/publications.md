@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Journal Articles:**
+- E. Wachter, S. Kasap, S. Kolozali, X. Zhai, S. Ehsan and K.D. McDonald-Maier, "Using Machine Learning for Anomaly Detection on a System-on-Chip under Gamma Radiation". Nuclear Engineering and Technology, 2022, in press. [Open Access Repository](http://repository.essex.ac.uk/33087/1/1-s2.0-S1738573322003102-main.pdf)
 - Sangeet Saha, Shounak Chakraborty, Xiaojun Zhai, Shoaib Ehsan, Klaus McDonald-Maier, "ACCURATE: Accuracy Maximization for Real-Time Multi-core systems with Energy Efficient Way-sharing Caches", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, in press. [Open Access Repository](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9739790)
 - Y. Wang, J. Su, X. Zhai, F. Meng, and C. Liu, "Snow Coverage Mapping by Learning from Sentinel-2 Satellite Multispectral Images via Machine Learning Algorithms" Remote Sensing 14, no. 3: 782, 2022. [Open Access Repository](https://doi.org/10.3390/rs14030782)
 - Lu, Y., Zhai, X., Saha, S., Ehsan, S. and McDonald-Maier, KD., “A Self-adaptive SEU Mitigation Scheme for Embedded Systems in Extreme Radiation Environments”， IEEE Systems Journal, accepted in Jan, 2022. [Open Access Repository](http://repository.essex.ac.uk/32023/)
