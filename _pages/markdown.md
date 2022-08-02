@@ -20,6 +20,7 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
+| [Ludovico Poli](https://www.linkedin.com/in/michal-borowski-521b8790/) | 2022 - Present   | [non-intrusive debug infrastructure for RISC-V processor](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
 | [Michal Borowski](https://www.linkedin.com/in/michal-borowski-521b8790/) | 2021 - Present   | [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
 | [Issam Boukhennoufa](https://www.linkedin.com/in/issam-boukhennoufa/) | 2020 - Present   | [Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation](https://balancezhai.github.io/portfolio/protfolio-996/)                          |
 | [Yucheng Wang](https://www.linkedin.com/in/yucheng-wang-278b921b1/)       | 2019 - Present   | [Epigenetic machine learning: utilizing DNA methylation patterns to predict age acceleration](https://balancezhai.github.io/portfolio/protfolio-997/)                          |
@@ -29,6 +30,8 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
+| Yifan Zhu       | 2021 - 2022   | The NEORV32 RISC-V Processor    |
+| Andrés Abundis Correa       | 2021 - 2022   | Once-For-All Convolutional Neural Networks to overcome embedded system implementation constraints     |
 | Esmat Esha       | 2020 - 2021   | Energy Aware Machine Learning Pruning Algorithm     |
 | Syed Saud Alyassa       | 2019 - 2020   | Zynq SoC Based Deep Learning Network Implementation   |
 | Che Zhang | 2018 - 2019   | Deep learning algorithm for food classification application                         |
