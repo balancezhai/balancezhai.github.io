@@ -10,6 +10,7 @@ This project is supported by EPSRC ([EP/V034111/1](https://gow.epsrc.ukri.org/NG
 - Project details can be found from here at [hackster.io](https://www.hackster.io/378085/adaptive-deep-learning-hardware-for-video-analytics-f8d064)
 
 ## News
+- 08/2022: Our submission [FPGA-based Dynamic Deep Learning Acceleration for Real-time Video Analytics] has been accepted in ARCS 2022.
 - 04/2022: Our submission [All-in-one Self-adaptive Computing Platform for Smart City](https://www.hackster.io/yufan-lu/all-in-one-self-adaptive-computing-platform-for-smart-city-933ff2) to [Adaptive Computing Challenge 2021 with Xilinx](https://www.hackster.io/contests/xilinxadaptivecomputing2021), has been awarded for the best project for Xilinx University Program (XUP).
 - 09/2021: we are participating [Adaptive Computing Challenge 2021 with Xilinx](https://www.hackster.io/contests/xilinxadaptivecomputing2021) 
 - 09/2021: Our paper "FPGA based Adaptive Hardware Acceleration for Multiple Deep Learning Tasks" has been accepted as a REGULAR paper for presentation at the 14th IEEE [MCSoC 2021 and publication in IEEE CPS proceedings](https://www.mcsoc-forum.org/)
