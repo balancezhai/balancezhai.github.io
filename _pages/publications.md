@@ -52,6 +52,8 @@ author_profile: true
 - X. Zhai, F. Bensaali, “Improved Number Plate Character Segmentation Algorithm and Its Efficient FPGA Implementation”, Springer Journal of Real-time Image Processing, Springer, DOI: 10.1007/s11554-012-0258-5, pp. 1-13, June, 2012. 
 
 **Conference Papers and book chapters:**
+- Y. Lu, C. Gao, R. Saha, S. Saha, K. McDonald-Maier, X. Zhai, “FPGA-based Dynamic Deep Learning Acceleration for Real-time Video Analytics, 35th GI/ITG International Conference on Architecture of Computing Systems, accepted in 2022.
+- L. Poli, S. Saha, X. Zhai and K. D. Mcdonald-Maier, "Design and Implementation of a RISC V Processor on FPGA," 2021 17th International Conference on Mobility, Sensing and Networking (MSN), 2021, pp. 161-166, doi: 10.1109/MSN53354.2021.00037.
 - I. Boukhennoufa, X. Zhai, V. Utti, J. Jackson and K. D. McDonald-Maier, "A comprehensive evaluation of state-of-the-art time-series deep learning models for activity-recognition in post-stroke rehabilitation assessment," 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021, pp. 2242-2247, doi: 10.1109/EMBC46164.2021.9630462
 - S. Saha et al., "EnSuRe: Energy & Accuracy Aware Fault-tolerant Scheduling on Real-time Heterogeneous Systems," 2021 IEEE 27th International Symposium on On-Line Testing and Robust System Design (IOLTS), 2021, pp. 1-4, doi: 10.1109/IOLTS52814.2021.9486707.
 - Aslam, B., Saha, S., Zaffar, M., Ehsan, S., Zhai, X., Cazzaniga, C., Frost, C., McDonald-Maier, K. and Stolkin, R., Measuring the Degradation of Commercial Cameras Under Fast Neutron Beam. n: Single Event Effects (SEE) Symposium coupled with the Military and Aerospace Programmable Logic Devices (MAPLD) Workshop, 2019-05-20 - 2019-05-23, San Diego, CA.
