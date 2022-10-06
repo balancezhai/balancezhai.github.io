@@ -19,6 +19,7 @@ To secure program interaction we need to go beyond access privileges and ensure 
 ![Debugging system](/images/prop_appctrl_b.png)
 
 ## News
+- 10/2022: We presented our poster in Digital Security by Design (DSbD) - All Hands networking meeting at Grand Station, Sun St, Wolverhampton.
 - 08/2022: Our paper "[Benchmark Tool for Detecting Anomalous Program Behaviour on Embedded Devices](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/CAI-22.pdf)" has been accepted by the CAI-2022 held in conjunction with IEEE TrustCom-2022.
 - 04/2022: We presented our poster in Digital Security by Design (DSbD) - All Hands networking meeting at 116 Pall Mall, London.
 - 09/2021: Our paper "[Design and Implementation of a RISC V Processor  on FPGA](https://ieeexplore.ieee.org/abstract/document/9751566/)" has been accepted by the 17th International Conference on Mobility, Sensing and Networking [MSN 2021](https://ieee-msn.org/2021/)

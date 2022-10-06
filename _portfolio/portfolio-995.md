@@ -11,8 +11,7 @@ This project is supported by EPSRC ([EP/V034111/1](https://gow.epsrc.ukri.org/NG
 
 ## News
 - 08/2022: Our submission "FPGA-based Dynamic Deep Learning Acceleration for Real-time Video Analytics" has been accepted in [ARCS 2022](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/ARCS_Lu.pdf).
-- 07/2022: Our submission "Deep Learning on FPGAs with Multiple Service
-Levels for Edge Computing" has been accepted in [ICAC 2022](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/ICAC_Cong.pdf). 
+- 07/2022: Our submission "Deep Learning on FPGAs with Multiple Service Levels for Edge Computing" has been accepted in [ICAC 2022](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/ICAC_Cong.pdf). 
 - 04/2022: Our submission [All-in-one Self-adaptive Computing Platform for Smart City](https://www.hackster.io/yufan-lu/all-in-one-self-adaptive-computing-platform-for-smart-city-933ff2) to [Adaptive Computing Challenge 2021 with Xilinx](https://www.hackster.io/contests/xilinxadaptivecomputing2021), has been awarded for the best project for Xilinx University Program (XUP).
 - 03/2022: Our paper "[ACCURATE: Accuracy Maximization for Real-Time Multi-core systems with Energy Efficient Way-sharing Caches](https://ieeexplore.ieee.org/abstract/document/9739790)" has been accepted in IEEE TCAD.
 - 12/2021: Our paper "[FPGA based Adaptive Hardware Acceleration for Multiple Deep Learning Tasks](https://ieeexplore.ieee.org/abstract/document/9691938/)" has been published in the 2021 IEEE 14th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)
