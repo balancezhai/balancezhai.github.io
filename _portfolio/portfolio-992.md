@@ -1,6 +1,6 @@
 ---
 title: "Real-Time Federated Learning at the Wireless Edge via Algorithm-Hardware Co-Design (EP/X019160/1)"
-excerpt: "<br/><img src='/images/federated learning.png'  width='200'>"
+excerpt: "<br/><img src='/images/federated learning.png'  width='600'>"
 collection: portfolio
 ---
 
