@@ -25,6 +25,7 @@ redirect_from:
 - For Funded PhD Studentships, if you are an excellent and hard working student, please send (a) your CV, (b) transcripts of your grades, (c) copies of papers you have published, (d) a project proposal linked to my research projects and interests and (e) the name of two referees, to ***xzhai at essex.ac.uk***
 
 **News**
+
 Please visit our [research projects page](https://balancezhai.github.io/portfolio/) for details of the news.
 - 09/2022: I have been invited to give a talk about my EPSRC NIA at the Kingston University London.
 - 09/2022: Conguratudations! Yufan Lu passed his PhD viva examination. 
