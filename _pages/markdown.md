@@ -15,6 +15,14 @@ redirect_from:
 |[Ludovico Poli](https://uk.linkedin.com/in/ludovico-poli-448340190)|2021 - present| [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#) |
 |[Dr Sangeet Saha](https://uk.linkedin.com/in/sangeet-saha-a677924b)|2018 - 2021|1.[National Centre for Nuclear Robotics](https://balancezhai.github.io/portfolio/protfolio-998/#), 2.[Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)|
 
+## Academic visitor
+
+|Names|Years| University            |
+|---|---|---|
+|Dr Xiaoyu Cheng|09/2022 - present|Shanghai Institute of Technical Physics, Chinese Academy of Sciences|
+|[Dr Yangzhe Liao](https://ieeexplore.ieee.org/author/37085753559)|02/2019 - 08/2019|Wuhan University of Technology|
+|[Dr Jianchun Xu](https://scholar.google.com/citations?user=DjS2wVEAAAAJ&hl=zh-CN)|04/2019 - 09/2019|Beijing University of Posts and Telecommunications|
+
 
 ## PhD students
 
