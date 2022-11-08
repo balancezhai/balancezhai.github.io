@@ -50,6 +50,8 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
+| Shuo Liu         | 2022 - 2023   | Adaptive deep learning on embedded platforms |
+| Shuang Liang     | 2022 - 2023   | Project Management Systems |
 | Xuqi Zhu         | 2021 - 2022   | Markerless Human pose estimation using computer vision approach |
 | Shengzhe Huang         | 2021 - 2022   | Human pose estimation using wearable sensors |
 | Jiacheng Zhu         | 2021 - 2022   | RISC-V debug infrastructure on ZC706|
