@@ -28,6 +28,8 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
+| [Xuqi Zhu](https://www.essex.ac.uk/people/ZHUXU16003) | 2023 - Present   | [EDGE - Adaptive Deep Learning Hardware for Embedded Platforms](https://balancezhai.github.io/portfolio/portfolio-995/) 
+| [Haidee Tang](https://www.essex.ac.uk/people/TANGH63502) | 2021 - Present   | Using climatic and imaging data to predict apple flowering time and fruit ripeness)                          |
 | [Ludovico Poli](https://www.linkedin.com/in/michal-borowski-521b8790/) | 2022 - Present   | [Non-intrusive debug infrastructure for RISC-V processor](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
 | [Michal Borowski](https://www.linkedin.com/in/michal-borowski-521b8790/) | 2021 - Present   | [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
 | [Issam Boukhennoufa](https://www.linkedin.com/in/issam-boukhennoufa/) | 2020 - Present   | [Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation](https://balancezhai.github.io/portfolio/protfolio-996/)                          |
@@ -38,6 +40,8 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
+|RAHMAN	HASSAAN UR|2022-2023|A heterogonous computer vision system using MPSoC|
+|JAGHASI	AHMAD MUNEER | 2022-2023 | RISC-V processor design and implementation|
 | Yifan Zhu       | 2021 - 2022   | The NEORV32 RISC-V Processor    |
 | Andrés Abundis Correa       | 2021 - 2022   | Once-For-All Convolutional Neural Networks to overcome embedded system implementation constraints     |
 | Esmat Esha       | 2020 - 2021   | Energy Aware Machine Learning Pruning Algorithm     |
@@ -50,6 +54,8 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
+|Glen Trevor Lewis |2022 - 2023   | Drone inspection of Fruit Farms  |
+| Nassar Nazih         | 2022 - 2023   | Creating a device that reads steps, heartbeat with an app  |
 | Shuo Liu         | 2022 - 2023   | Adaptive deep learning on embedded platforms |
 | Shuang Liang     | 2022 - 2023   | Project Management Systems |
 | Xuqi Zhu         | 2021 - 2022   | Markerless Human pose estimation using computer vision approach |
