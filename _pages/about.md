@@ -27,6 +27,7 @@ redirect_from:
 **News**
 
 Please visit our [research projects page](https://balancezhai.github.io/portfolio/) for details of the news.
+- 05/2023: I have recieved Mid-Career Researcher Award from the University of Essex.
 - 09/2022: I have been invited to give a talk about my EPSRC NIA at the Kingston University London.
 - 09/2022: Conguratudations! Yufan Lu passed his PhD viva examination. 
 - 08/2022: We won an EPSRC New Horizon grant in partnership with the University of Exeter.
