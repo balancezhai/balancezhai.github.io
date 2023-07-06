@@ -28,6 +28,7 @@ redirect_from:
 
 Please visit our [research projects page](https://balancezhai.github.io/portfolio/) for details of the news.
 - 06/2023：Our paper has been accepted by [FPL2023](https://2023.fpl.org/): [FPL-23-EDGE](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/FPL-23.pdf).
+- 06/2023: Our paper has been accepted by IEEE Transactions on Neural Systems and Rehabilitation Engineering: [Time series Siamese GAN](https://ieeexplore.ieee.org/abstract/document/10144395).
 - 05/2023: I have recieved [Mid-Career Researcher Award](https://www.flickr.com/photos/universityofessex/52941669942/in/album-72177720308730872/) from the University of Essex.
 - 04/2023: Two papers have been accepted in [NEWCAS2023](https://2023.ieee-newcas.org/): [EDGE](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/NEWCAS-23-EDGE.pdf) and [APPControl](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/NEWCAS-23-APPControl.pdf).
 - 03/2023: I have been invited to give a research seminar at the University of Leicester.
