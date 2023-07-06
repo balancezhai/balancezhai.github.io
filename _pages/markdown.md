@@ -29,7 +29,7 @@ redirect_from:
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
 | [Xuqi Zhu](https://www.essex.ac.uk/people/ZHUXU16003) | 2023 - Present   | [EDGE - Adaptive Deep Learning Hardware for Embedded Platforms](https://balancezhai.github.io/portfolio/portfolio-995/) 
-| [Haidee Tang](https://www.essex.ac.uk/people/TANGH63502s | 2021 - Present   | Using climatic and imaging data to predict apple flowering time and fruit ripeness)                          |
+| [Haidee Tang](https://www.essex.ac.uk/people/TANGH63502s) | 2021 - Present   | Using climatic and imaging data to predict apple flowering time and fruit ripeness)                          |
 | [Ludovico Poli](https://www.linkedin.com/in/michal-borowski-521b8790/) | 2022 - Present   | [Non-intrusive debug infrastructure for RISC-V processor](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
 | [Michal Borowski](https://www.linkedin.com/in/michal-borowski-521b8790/) | 2021 - Present   | [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
 | [Issam Boukhennoufa](https://www.linkedin.com/in/issam-boukhennoufa/) | 2020 - Present   | [Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation](https://balancezhai.github.io/portfolio/protfolio-996/)                          |
