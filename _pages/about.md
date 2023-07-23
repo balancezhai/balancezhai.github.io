@@ -30,10 +30,11 @@ Please visit our [research projects page](https://balancezhai.github.io/portfoli
 - 06/2023：Our paper has been accepted by [FPL2023](https://2023.fpl.org/): [FPL-23-EDGE](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/FPL-23.pdf).
 - 06/2023: Our paper has been accepted by IEEE Transactions on Neural Systems and Rehabilitation Engineering: [Time series Siamese GAN](https://ieeexplore.ieee.org/abstract/document/10144395).
 - 05/2023: I have recieved [Mid-Career Researcher Award](https://www.flickr.com/photos/universityofessex/52941669942/in/album-72177720308730872/) from the University of Essex.
+- 04/2023: Conguratudations! Yucheng Wang has passed his PhD viva examination. 
 - 04/2023: Two papers have been accepted in [NEWCAS2023](https://2023.ieee-newcas.org/): [EDGE](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/NEWCAS-23-EDGE.pdf) and [APPControl](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/NEWCAS-23-APPControl.pdf).
 - 03/2023: I have been invited to give a research seminar at the University of Leicester.
 - 09/2022: I have been invited to give a talk about my EPSRC NIA at the Kingston University London.
-- 09/2022: Conguratudations! Yufan Lu passed his PhD viva examination. 
+- 09/2022: Conguratudations! Yufan Lu has passed his PhD viva examination. 
 - 08/2022: We won an EPSRC New Horizon grant in partnership with the University of Exeter.
 - 08/2022: Our submission "FPGA-based Dynamic Deep Learning Acceleration for Real-time Video Analytics" has been accepted in [ARCS 2022](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/ARCS_Lu.pdf)
 - 07/2022: Two papers were accpeted in ICAC-22: [Deep Learning on FPGAs with Multiple Service Levels for Edge Computing](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/ICAC_Cong.pdf) and [Kalman Filter based Approach for Markerless Pose Tracking and Assessment](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/ICAC_Zhu.pdf)
