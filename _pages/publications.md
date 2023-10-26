@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Journal Articles:**
+**Selected Journal Articles:**
+- Wang, Y., Grant, O.A., Zhai, X. et al. Insights into ageing rates comparison across tissues from recalibrating cerebellum DNA methylation clock. GeroScience (2023). https://doi.org/10.1007/s11357-023-00871-w [Open Access Repository](https://repository.essex.ac.uk/35945/)
+- Gao, C., Saha, S., Zhu, X. et al. Application Level Resource Scheduling for Deep Learning Acceleration on MPSoC. J Sign Process Syst (2023). https://doi.org/10.1007/s11265-023-01881-9 [Open Access Repository](https://repository.essex.ac.uk/35952/)
+- Yu, W., Wang, X., Fang, X., & Zhai, X. (2023). Modeling and analytics of multi-factor disease evolutionary process by fusing petri nets and machine learning methods. Applied Soft Computing, 142, 110325. [Open Access Repository](https://repository.essex.ac.uk/35506/)
 - I. Boukhennoufa, D. Jarchi, X. Zhai, V. Utti, S. Sanei, T. KM Lee, J. Jackson, K. D McDonald-Maier, "A novel model to generate heterogeneous and realistic time-series data for post-stroke rehabilitation assessment", IEEE Transactions on Neural Systems and Rehabilitation, 2023, in press [Open Access Repository](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144395)
 - X. Zhu, I. Boukhennoufa, B. Liew, C. Gao, W. Yu, K. D McDonald-Maier, X. Zhai, "Monocular 3D Human Pose Markerless Systems for Gait Assessment", Bioengineering,  Vol.10(6), 2023. [OpenAccess Repository](https://www.mdpi.com/2306-5354/10/6/653)
 - E. Wachter, S. Kasap, S. Kolozali, X. Zhai, S. Ehsan and K.D. McDonald-Maier, "Using Machine Learning for Anomaly Detection on a System-on-Chip under Gamma Radiation". Nuclear Engineering and Technology, vol.54(11), 2022. [Open Access Repository](http://repository.essex.ac.uk/33087/1/1-s2.0-S1738573322003102-main.pdf)
@@ -55,7 +58,9 @@ author_profile: true
 - X. Zhai, F. Bensaali and S. Ramalingam, “Improved Number Plate Localisation Algorithm and its Efficient FPGA Implementation”, in IET Circuits, Devices & Systems, vol.7, issue 2, pp. 93-103, March, 2013. 
 - X. Zhai, F. Bensaali, “Improved Number Plate Character Segmentation Algorithm and Its Efficient FPGA Implementation”, Springer Journal of Real-time Image Processing, Springer, DOI: 10.1007/s11554-012-0258-5, pp. 1-13, June, 2012. 
 
-**Conference Papers and book chapters:**
+**Selected Conference Papers and book chapters:**
+- M. Borowski, C. Pal, S. Saha, L. Poli, X. Zhai and K. D. McDonald-Maier, "Anomaly Behaviour tracing of CHERI-RISC V using Hardware-Software Co-design," 2023 21st IEEE Interregional NEWCAS Conference (NEWCAS), Edinburgh, United Kingdom, 2023, pp. 1-5, doi: 10.1109/NEWCAS57931.2023.10198103. [Open Access Repository](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/NEWCAS-23-APPControl.pdf)
+- C. Gao, X. Zhu, S. Saha, K. D. McDonald-Maier and X. Zhai, "Modelling and Analysis of FPGA-based MPSoC System with Multiple DNN Accelerators," 2023 21st IEEE Interregional NEWCAS Conference (NEWCAS), Edinburgh, United Kingdom, 2023, pp. 1-5, doi: 10.1109/NEWCAS57931.2023.10198162. [Open Access Repository](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/NEWCAS-23-EDGE.pdf)
 - Y. Lu, C. Gao, R. Saha, S. Saha, K. McDonald-Maier, X. Zhai, “FPGA-based Dynamic Deep Learning Acceleration for Real-time Video Analytics, 35th GI/ITG International Conference on Architecture of Computing Systems, Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 13642 LNCS, 68–82，2022. [Open Access Repository](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/ARCS_Lu.pdf)
 - C. Gao, S. Saha, Y. Lu, R. Saha, K. D. McDonald-Maier and X. Zhai, "Deep Learning on FPGAs with Multiple Service Levels for Edge Computing," 2022 27th International Conference on Automation and Computing (ICAC), Bristol, United Kingdom, 2022, pp. 1-6, doi: 10.1109/ICAC55051.2022.9911081. [Open Access Repository](https://balancezhai.github.io/files/ICAC_Cong.pdf)
 - X. Zhu, I. Boukhennoufa, B. Liew, K. D. McDonald-Maier and X. Zhai, "A Kalman Filter based Approach for Markerless Pose Tracking and Assessment," 2022 27th International Conference on Automation and Computing (ICAC), Bristol, United Kingdom, 2022, pp. 1-7, doi: 10.1109/ICAC55051.2022.9911152. [Open Access Repository](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/ICAC_Zhu.pdf)

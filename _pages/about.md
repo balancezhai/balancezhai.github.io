@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Dr Xiaojun Zhai](https://www.essex.ac.uk/people/zhaix77307/xiaojun-zhai) is a Senior Lecturer in Department of Computer Science and Electronic Engineering at the University of Essex, Essex, UK. His research interest primarily focuses on the fields of high performance reconfigurable computing using Field Programmable Gate Arrays (FPGAs). He is a Senior Member of IEEE, Fellow of High Education Association (FHEA) and a  member of British Computer Science (MBCS).  
+[Dr Xiaojun Zhai](https://www.essex.ac.uk/people/zhaix77307/xiaojun-zhai) is a Reader in Department of Computer Science and Electronic Engineering at the University of Essex, Essex, UK. His research interest primarily focuses on the fields of high performance reconfigurable computing using Field Programmable Gate Arrays (FPGAs). He is a Senior Member of IEEE, Fellow of High Education Association (FHEA) and a  member of British Computer Science (MBCS).  
 
 **Core Research Interests:**
 - Embedded Systems and System-on-Chip (SoC) design, for increasing security, power, performance and reliability
@@ -23,9 +23,9 @@ redirect_from:
 **Vacancies**
 - For RA posts, see [University of Essex vacancies](https://www1.essex.ac.uk/vacancies/categories.aspx?jobtype=education).
 - For Funded PhD Studentships, if you are an excellent and hard working student, please send (a) your CV, (b) transcripts of your grades, (c) copies of papers you have published, (d) a project proposal linked to my research projects and interests and (e) the name of two referees, to ***xzhai at essex.ac.uk***
+- For CSC 国家建设高水平大学公派研究生项目 [(所在单位或个人合作渠道)](https://bg.csc.edu.cn/DownLoad.aspx?PROJECTCODE=200001), deadline March every year, please email me prior to apply.
 
 **News**
-
 Please visit our [research projects page](https://balancezhai.github.io/portfolio/) for details of the news.
 - 06/2023：Our paper has been accepted by [FPL2023](https://2023.fpl.org/): [FPL-23-EDGE](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/FPL-23.pdf).
 - 06/2023: Our paper has been accepted by IEEE Transactions on Neural Systems and Rehabilitation Engineering: [Time series Siamese GAN](https://ieeexplore.ieee.org/abstract/document/10144395).
