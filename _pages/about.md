@@ -27,6 +27,7 @@ redirect_from:
 
 **News**
 Please visit our [research projects page](https://balancezhai.github.io/portfolio/) for details of the news.
+- 09/2023：Our KTP project received best KTP project (SME) award! [Video](https://www.youtube.com/watch?v=24D1I9gpp2Y).
 - 06/2023：Our paper has been accepted by [FPL2023](https://2023.fpl.org/): [FPL-23-EDGE](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/FPL-23.pdf).
 - 06/2023: Our paper has been accepted by IEEE Transactions on Neural Systems and Rehabilitation Engineering: [Time series Siamese GAN](https://ieeexplore.ieee.org/abstract/document/10144395).
 - 05/2023: I have recieved [Mid-Career Researcher Award](https://www.flickr.com/photos/universityofessex/52941669942/in/album-72177720308730872/) from the University of Essex.
