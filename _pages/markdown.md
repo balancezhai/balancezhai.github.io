@@ -11,8 +11,8 @@ redirect_from:
 
 |Names|Years |Projects|
 |---|---|---|
-|[Dr Chandrajit Pal](https://www.essex.ac.uk/people/PALCH71608/chandrajit-pal)|2021 - present| [Morello-HAT: Morello High-Level API and Tooling (EP/X015955/1)](https://balancezhai.github.io/portfolio/portfolio-993/) |
-|[Dr Cong Gao](https://www.linkedin.com/in/%E8%81%AA-%E9%AB%98-3a65a0163/)|2021 - present| [Adaptive Deep Learning Hardware for Embedded Platforms (EP/V034111/1)](https://balancezhai.github.io/portfolio/portfolio-995/) |
+|[Dr Chandrajit Pal](https://www.essex.ac.uk/people/PALCH71608/chandrajit-pal)|2023 - present| [Morello-HAT: Morello High-Level API and Tooling (EP/X015955/1)](https://balancezhai.github.io/portfolio/portfolio-993/) |
+|[Dr Cong Gao](https://www.linkedin.com/in/%E8%81%AA-%E9%AB%98-3a65a0163/)|2021 - 2023| [Adaptive Deep Learning Hardware for Embedded Platforms (EP/V034111/1)](https://balancezhai.github.io/portfolio/portfolio-995/) |
 |[Ludovico Poli](https://uk.linkedin.com/in/ludovico-poli-448340190)|2021 - present| [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#) |
 |[Dr Sangeet Saha](https://uk.linkedin.com/in/sangeet-saha-a677924b)|2018 - 2021|1.[National Centre for Nuclear Robotics](https://balancezhai.github.io/portfolio/protfolio-998/#), 2.[Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)|
 
@@ -30,12 +30,13 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
-| [Jiacheng Zhu](https://www.essex.ac.uk/people/ZHUJI940033) | 2023 - Present   | TBA |
+| Huaizhi Zhang | 2024 - Present   | Privacy-aware adaptive embedded computing |
+| [Jiacheng Zhu](https://www.essex.ac.uk/people/ZHUJI940033) | 2023 - Present   | Efficient adaptive computing platform for SLAM |
 | [Xuqi Zhu](https://www.essex.ac.uk/people/ZHUXU16003) | 2023 - Present   | [EDGE - Adaptive Deep Learning Hardware for Embedded Platforms](https://balancezhai.github.io/portfolio/portfolio-995/) |
-| [Haidee Tang](https://www.essex.ac.uk/people/TANGH63502s) | 2021 - Present   | Using climatic and imaging data to predict apple flowering time and fruit ripeness)                          |
+| [Haidee Tang](https://www.essex.ac.uk/people/TANGH63502s) | 2021 - Present   | Using climatic and imaging data to predict apple flowering time and fruit ripeness                         |
 | [Ludovico Poli](https://www.linkedin.com/in/michal-borowski-521b8790/) | 2022 - Present   | [Non-intrusive debug infrastructure for RISC-V processor](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
 | [Michal Borowski](https://www.linkedin.com/in/michal-borowski-521b8790/) | 2021 - Present   | [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
-| [Issam Boukhennoufa](https://www.linkedin.com/in/issam-boukhennoufa/) | 2020 - Present   | [Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation](https://balancezhai.github.io/portfolio/protfolio-996/)                          |
+| [Issam Boukhennoufa](https://www.linkedin.com/in/issam-boukhennoufa/) | 2020 - 2023   | [Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation](https://balancezhai.github.io/portfolio/protfolio-996/)                          |
 | [Yucheng Wang](https://www.linkedin.com/in/yucheng-wang-278b921b1/)       | 2019 - 2023   | [Epigenetic machine learning: utilizing DNA methylation patterns to predict age acceleration](https://balancezhai.github.io/portfolio/protfolio-997/)                          |
 | [Yufan Lu](https://scholar.google.ae/citations?user=OBZ16uoAAAAJ&hl=en)           | 2019 - 2023   | [Self-adaptive embedded hardware for extreme environments](https://balancezhai.github.io/portfolio/portfolio-995/)     |
 
