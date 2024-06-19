@@ -27,6 +27,8 @@ redirect_from:
 
 **News**
 Please visit our [research projects page](https://balancezhai.github.io/portfolio/) for details of the news.
+- 06/2024: Our submission "NIRVANA: Non-Invasive Real-time VulnerAbility ANAlysis for RISC-V Processor" and "REALITY: RL-PowEred AnomaLy Detection with Imprecise Computing in MulTi-core sYstems" has been accepted in [COINS2024].
+- 06/2024: Our submission "Advancing Railway Trackside Vegetation Management: Integrating UAV and AI Technologies for Enhanced Efficiency and Sustainability" has been accepted in [ICAC2024].
 - 05/2024：Our research propsoal: "IDEAL: Reducing Carbon Footprints of IoT Devices through Extension of Active Lifespans" has been accepted under "EPSRC Research for a digitally enabled circular economy and sustainable digital technologies" scheme.  
 - 03/2024：We were demostrating our abnormal detection system in RISC-V processors at CyberASAP demo day in London. [CyberASAP](https://iuk.ktn-uk.org/projects/cyberasap/forensic/). 
 - 09/2023：Our KTP project received best KTP project (SME) award! [Video](https://www.youtube.com/watch?v=24D1I9gpp2Y).
