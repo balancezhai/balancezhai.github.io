@@ -27,6 +27,7 @@ redirect_from:
 
 **News**
 Please visit our [research projects page](https://balancezhai.github.io/portfolio/) for details of the news.
+- 05/2024：Our research propsoal: "IDEAL: Reducing Carbon Footprints of IoT Devices through Extension of Active Lifespans" has been accepted under "EPSRC Research for a digitally enabled circular economy and sustainable digital technologies" scheme.  
 - 03/2024：We were demostrating our abnormal detection system in RISC-V processors at CyberASAP demo day in London. [CyberASAP](https://iuk.ktn-uk.org/projects/cyberasap/forensic/). 
 - 09/2023：Our KTP project received best KTP project (SME) award! [Video](https://www.youtube.com/watch?v=24D1I9gpp2Y).
 - 06/2023：Our paper has been accepted by [FPL2023](https://2023.fpl.org/): [FPL-23-EDGE](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/FPL-23.pdf).

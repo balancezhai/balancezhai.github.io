@@ -30,15 +30,16 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
-| Huaizhi Zhang | 2024 - Present   | Privacy-aware adaptive embedded computing |
+| [Tamim M. Al-Mulla](https://www.essex.ac.uk/people/MAHMU16908) | 2024 - Present   | Predictive Maintenance of a Commercial Off-The-Shelf (COTS) Robotic System in Nuclear Environments |
+| [Huaizhi Zhang](https://www.essex.ac.uk/people/ZHANG22840/Huaizhi-Zhang) | 2024 - Present   | Privacy-aware adaptive embedded computing |
 | [Jiacheng Zhu](https://www.essex.ac.uk/people/ZHUJI940033) | 2023 - Present   | Efficient adaptive computing platform for SLAM |
 | [Xuqi Zhu](https://www.essex.ac.uk/people/ZHUXU16003) | 2023 - Present   | [EDGE - Adaptive Deep Learning Hardware for Embedded Platforms](https://balancezhai.github.io/portfolio/portfolio-995/) |
 | [Haidee Tang](https://www.essex.ac.uk/people/TANGH63502s) | 2021 - Present   | Using climatic and imaging data to predict apple flowering time and fruit ripeness                         |
 | [Ludovico Poli](https://www.linkedin.com/in/michal-borowski-521b8790/) | 2022 - Present   | [Non-intrusive debug infrastructure for RISC-V processor](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
 | [Michal Borowski](https://www.linkedin.com/in/michal-borowski-521b8790/) | 2021 - Present   | [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
 | [Issam Boukhennoufa](https://www.linkedin.com/in/issam-boukhennoufa/) | 2020 - 2023   | [Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation](https://balancezhai.github.io/portfolio/protfolio-996/)                          |
-| [Yucheng Wang](https://www.linkedin.com/in/yucheng-wang-278b921b1/)       | 2019 - 2023   | [Epigenetic machine learning: utilizing DNA methylation patterns to predict age acceleration](https://balancezhai.github.io/portfolio/protfolio-997/)                          |
-| [Yufan Lu](https://scholar.google.ae/citations?user=OBZ16uoAAAAJ&hl=en)           | 2019 - 2023   | [Self-adaptive embedded hardware for extreme environments](https://balancezhai.github.io/portfolio/portfolio-995/)     |
+| [Yucheng Wang](https://www.linkedin.com/in/yucheng-wang-278b921b1/)   | 2019 - 2023   | [Epigenetic machine learning: utilizing DNA methylation patterns to predict age acceleration](https://balancezhai.github.io/portfolio/protfolio-997/)                          |
+| [Yufan Lu](https://scholar.google.ae/citations?user=OBZ16uoAAAAJ&hl=en) | 2019 - 2023   | [Self-adaptive embedded hardware for extreme environments](https://balancezhai.github.io/portfolio/portfolio-995/)     |
 
 ## Postgraduate project students
 
