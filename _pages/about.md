@@ -44,5 +44,15 @@ Please visit our [research projects page](https://balancezhai.github.io/portfoli
 - 08/2022: We won an EPSRC New Horizon grant in partnership with the University of Exeter.
 - 08/2022: Our submission "FPGA-based Dynamic Deep Learning Acceleration for Real-time Video Analytics" has been accepted in [ARCS 2022](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/ARCS_Lu.pdf)
 - 07/2022: Two papers were accpeted in ICAC-22: [Deep Learning on FPGAs with Multiple Service Levels for Edge Computing](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/ICAC_Cong.pdf) and [Kalman Filter based Approach for Markerless Pose Tracking and Assessment](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/ICAC_Zhu.pdf)
+- 04/2022: Our paper "[interpolatedXY: a two-step strategy to normalise DNA methylation microarray data avoiding sex bias](https://www.biorxiv.org/content/10.1101/2021.09.30.462546v1)" has been accepted for publication in Bioinformatics.
+- 06/2022: our paper "[Using Machine Learning for Anomaly Detection on a System-on-Chip under Gamma Radiation](https://www.sciencedirect.com/science/article/pii/S1738573322003102)" has been published in Nuclear Engineering and Technology.
+- 03/2022: we presented our work in [A Workshop on Self-Driving Cars and Reliability](https://www.isis.stfc.ac.uk/Pages/Workshop%20Programme%202022.pdf) at Rutherford Appleton laboratory, Oxford
+- 03/2022: we participated and demonstrated our work in [Robots for a Safer World challenge](https://www.ukri.org/what-we-offer/our-main-funds/industrial-strategy-challenge-fund/future-of-mobility/robots-for-a-safer-world-challenge/) 
+- 01/2022: our paper "[A Self-Adaptive SEU Mitigation Scheme for Embedded Systems in Extreme Radiation Environments](https://ieeexplore.ieee.org/abstract/document/9695516/)" has been published in IEEE Systems Journal.
+- 12/2021: Our paper "[FPGA based Adaptive Hardware Acceleration for Multiple Deep Learning Tasks](https://ieeexplore.ieee.org/abstract/document/9691938/)" has been published in the 2021 IEEE 14th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)
+- 09/2021: we are participating [Adaptive Computing Challenge 2021 with Xilinx](https://www.hackster.io/contests/xilinxadaptivecomputing2021) 
+- 09/2021: Our paper "FPGA based Adaptive Hardware Acceleration for Multiple Deep Learning Tasks" has been accepted as a REGULAR paper for presentation at the 14th IEEE [MCSoC 2021 and publication in IEEE CPS proceedings](https://www.mcsoc-forum.org/)
+- 08/2021: we are participating [LOW-POWER COMPUTER VISION CHALLENGE 2021 (FPGA Detection Track)](https://lpcv.ai/2021LPCVC/fpga-track)
+- 07/2021: Our paper "[DNA methylation-based sex classifier to predictsex and identify sex chromosome aneuploidy](http://repository.essex.ac.uk/30400/)" is published in BMC Genomics.
 
 

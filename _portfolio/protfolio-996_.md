@@ -43,7 +43,7 @@ Compare performance of two strategies(Pick 5 frequency components)
 <img src="/images/DFT_F_v3d_Subject_40.png" width="400">
 
 
-## News
-- 07/2022: Our paper "[Kalman Filter based Approach for Markerless Pose Tracking and Assessment](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/ICAC_Zhu.pdf)" has been accepted by the ICAC-2022.
+<!-- ## News
+- 07/2022: Our paper "[Kalman Filter based Approach for Markerless Pose Tracking and Assessment](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/ICAC_Zhu.pdf)" has been accepted by the ICAC-2022. -->
 
 

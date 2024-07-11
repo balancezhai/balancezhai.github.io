@@ -11,5 +11,5 @@ The Morello project implements these concepts and tools for the Arm architecture
 
 At Essex, we will enhance the traditionally exposed debug infrastructure by creating a ICMetrics secured software API on top of the CHERI software stack for debug and authentication, and create high-level API for accessing the debug subsystem and registers through in processor debug mode. In addtion, we will also create penetration testing and evaluation program suites, and evaluate and analyse the enhanced debug mechanism. 
 
-## News
-- 10/2022: We presented our poster in Digital Security by Design (DSbD) - All Hands networking meeting at Grand Station, Sun St, Wolverhampton.
+<!-- ## News
+- 10/2022: We presented our poster in Digital Security by Design (DSbD) - All Hands networking meeting at Grand Station, Sun St, Wolverhampton. -->
