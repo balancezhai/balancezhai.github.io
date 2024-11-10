@@ -1,6 +1,6 @@
 ---
 title: "EcoRoutePlanner: Dynamic Daily Route Planning and Scheduling for Crew Transfer Vessels in Offshore Wind Farms (10132557)"
-excerpt: "<br/><img src='/images/Smartshipping.png'  width='600'>"
+excerpt: "<br/><img src='/images/Smartshipping.png'  width='650'>"
 collection: portfolio
 ---
 
