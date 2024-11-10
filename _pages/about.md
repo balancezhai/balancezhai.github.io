@@ -27,6 +27,7 @@ redirect_from:
 
 **News**
 Please visit our [research projects page](https://balancezhai.github.io/portfolio/) for details of the news.
+- 09/2024: Our research propsoal: "EcoRoutePlanner: Dynamic Daily Route Planning and Scheduling for Crew Transfer Vessels in Offshore Wind Farms" has been accepted under "IUK Smart Shipping Acceleration Fund". 
 - 07/2024: Our latest research work on multiplier-free AI accelerator has been submitted to TCAD for peer review, preprints version is avaiable from [arxiv](https://arxiv.org/abs/2407.02362). 
 - 06/2024: Our submission "NIRVANA: Non-Invasive Real-time VulnerAbility ANAlysis for RISC-V Processor" and "REALITY: RL-PowEred AnomaLy Detection with Imprecise Computing in MulTi-core sYstems" has been accepted in [COINS2024].
 - 06/2024: Our submission "Advancing Railway Trackside Vegetation Management: Integrating UAV and AI Technologies for Enhanced Efficiency and Sustainability" has been accepted in [ICAC2024].
