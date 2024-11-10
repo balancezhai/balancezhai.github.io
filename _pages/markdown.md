@@ -20,6 +20,7 @@ redirect_from:
 
 |Names|Years| University            |
 |---|---|---|
+|[Dr Wangyang Yu](https://ieeexplore.ieee.org/author/37085534739)|08/2024 - 08/2025|Shan'Xi Normal University|
 |[Prof Ning Xu](http://wutinfo.whut.edu.cn/yjspy/dsjs/201808/t20180811_317302.shtml)|09/2023 - 08/2024|Wuhan University of Technology|
 |Dr Xiaoyu Cheng|09/2022 - 01/2023|Shanghai Institute of Technical Physics, Chinese Academy of Sciences|
 |[Dr Yangzhe Liao](https://ieeexplore.ieee.org/author/37085753559)|02/2019 - 08/2019|Wuhan University of Technology|
