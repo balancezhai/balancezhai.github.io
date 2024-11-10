@@ -1,6 +1,6 @@
 ---
 title: "IDEAL: Reducing Carbon Footprints of IoT Devices through Extension of Active Lifespans (EP/Z533749/1)"
-excerpt: "<br/><img src='/images/IDEAL.png'  width='400'>"
+excerpt: "<br/><img src='/images/IDEAL.png'  width='600'>"
 collection: portfolio
 ---
 
