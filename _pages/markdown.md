@@ -11,6 +11,7 @@ redirect_from:
 
 |Names|Years |Projects|
 |---|---|---|
+|[Dr David Hollinger](https://www.essex.ac.uk/people/HOLLI41506/david-hollinger)|2025 - present| [5G4PHealth: Enhanced 5G-Powered Platform for Predictive Preventive Personalized and Participatory Healthcare (10093679)](https://balancezhai.github.io/portfolio/portfolio-991/) |
 |[Dr Chandrajit Pal](https://www.essex.ac.uk/people/PALCH71608/chandrajit-pal)|2023 - present| [Morello-HAT: Morello High-Level API and Tooling (EP/X015955/1)](https://balancezhai.github.io/portfolio/portfolio-993/) |
 |[Dr Cong Gao](https://www.linkedin.com/in/%E8%81%AA-%E9%AB%98-3a65a0163/)|2021 - 2023| [Adaptive Deep Learning Hardware for Embedded Platforms (EP/V034111/1)](https://balancezhai.github.io/portfolio/portfolio-995/) |
 |[Ludovico Poli](https://uk.linkedin.com/in/ludovico-poli-448340190)|2021 - present| [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#) |
@@ -31,6 +32,8 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
+| [Nelson Kimaro](hhttps://www.essex.ac.uk/people/KIMAR42800) | 2025 - Present   | Sustainable Chip design for Net-Zero |
+| [Shengyang Huang](https://www.essex.ac.uk/people/HUANG11726/shengyang-huang) | 2025 - Present   | Sustainable Chip design for Net-Zero |
 | [Tamim M. Al-Mulla](https://www.essex.ac.uk/people/MAHMU16908) | 2024 - Present   | Predictive Maintenance of a Commercial Off-The-Shelf (COTS) Robotic System in Nuclear Environments |
 | [Huaizhi Zhang](https://www.essex.ac.uk/people/ZHANG22840/Huaizhi-Zhang) | 2024 - Present   | Privacy-aware adaptive embedded computing |
 | [Jiacheng Zhu](https://www.essex.ac.uk/people/ZHUJI940033) | 2023 - Present   | Efficient adaptive computing platform for SLAM |
