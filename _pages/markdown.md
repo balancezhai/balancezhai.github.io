@@ -49,6 +49,9 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
+| YA-LUN LEE|2024-2025| A heterogonous computer vision system using MPSoC|
+| MUHAMMAD AHMED KHAN|2024-2025| RISC-V processor design and implementation|
+|QIZAL ARSALAN|2024-2025| RISC-V processor design and implementation|
 |RAHMAN	HASSAAN UR|2022-2023|A heterogonous computer vision system using MPSoC|
 |JAGHASI	AHMAD MUNEER | 2022-2023 | RISC-V processor design and implementation|
 | Yifan Zhu       | 2021 - 2022   | The NEORV32 RISC-V Processor    |
@@ -63,6 +66,10 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
+|CHENG	ZEKAI|2024 - 2025|	Gesture based control of an unmanned aerial vehicle|
+|KAKKAR	MANAS|2024 - 2025|	Safe Navigation of Mobile Robotics|
+|WOLE-ABU	JOSEPH KUKEME PYTHAGORAS|2024 - 2025|	Gesture based operating system controller|
+|LI	Kunzhe|2024 - 2025|	Neural network design on FPGA|
 |Gopinath AKSHAY |2023 - 2024   | RISC-V Processor Project |
 |Alexander DU ROSE |2023 - 2024   | Low-cost on-chip diagnose solution |
 |Femi AMUSAN |2023 - 2024   | Smart Door Lock with AI |
