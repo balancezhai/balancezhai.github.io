@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 **Selected Journal Articles:**
+1. C. Pal, S. Saha, X. Zhai, G. Howells and K. D. McDonald-Maier, "APPARENT: AI-Powered Platform Anomaly Detection in Edge Computing," in IEEE Transactions on Sustainable Computing, doi: 10.1109/TSUSC.2025.3562738. [Open Access Repository](https://repository.essex.ac.uk/40768/).
+1. H. Tang, X. Zhai, and X. Xu, "Flowering variation induces apple maturity variation at harvest", Frontiers in Agronomy, Vol.7, 1545070. [Open Access](https://www.frontiersin.org/journals/agronomy/articles/10.3389/fagro.2025.1545070/full).
+1. H. Tang, X. Zhai, and X. Xu, "Evaluating the performance of models predicting the flowering times of twenty-six apple cultivars in England". European Journal of Agronomy, Vol.160, 2024. [Open Access Repository](https://repository.essex.ac.uk/38999/)
+1. Z. Altai, C. Fiifi Hayford, A. Phillips, J. Moran, X. Zhai, B. X W Liew, "Lower limb joint loading during high-impact activities: implication for bone health", JBMR Plus, 2024; [Open Access Repository](https://repository.essex.ac.uk/39451/)
+1. W. Yu, J. Zhang, L. Liu, Y. Liu, X. Zhai and R. K. Howlader, "A Distributed Data-Driven and Machine Learning Method for High-Level Causal Analysis in Sustainable IoT Systems," in IEEE Transactions on Sustainable Computing. [Open Access Repository](https://repository.essex.ac.uk/38963/).
 1. L. Mo, X. Li, A. Kritikakou and X. Zhai, "Contention and Reliability-Aware Energy Efficiency Task Mapping on NoC-Based MPSoCs," in IEEE Transactions on Reliability, 2024, doi: 10.1109/TR.2024.3377732. [Open Access Repository](https://repository.essex.ac.uk/37965/)
 1. B. Liew a, X. Zhu, X. Zhai, S. A. McErlain-Naylor, C. McManus, "Association between fat and fat-free body mass indices on shock attenuation during running, " Journal of Biomechanics, v.165, 2024. [Open Access Repository](https://repository.essex.ac.uk/37877/)
 1. B. Liew, F. Pfisterer, D. Rügamer, X. Zhai, "Strategies to optimise machine learning classification performance when using biomechanical features", Journal of Biomechanics, v.165, 2024. [Open Access Repository](https://repository.essex.ac.uk/37889/)

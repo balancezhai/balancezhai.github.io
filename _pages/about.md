@@ -27,7 +27,10 @@ redirect_from:
 
 **News**
 Please visit our [research projects page](https://balancezhai.github.io/portfolio/) for details of the news.
-- 01/2025: Our submission "A Privacy-aware Quantilisation Approach for Efficient Edge Deep Learning Accelerator" has been accepted in [ISCAS2025]. 
+- 06/2025: We have won Research Institute for Secure Hardware and Embedded Systems Impact Competition, and awarded £50k for creating our demostrator of on-chip abnormal detection for cyber-physical systems.
+- 06/2025: Our submission "Computationally Efficient FPGA-based Large Language Model Inference for Real-Time Decision-Making in Robotic Systems" has been accepted in [IROS2025](https://www.iros25.org/).
+- 04/2025: Our submission "APPARENT: AI-Powered Platform Anomaly Detection in Edge Computing" has been accepted in [IEEE Transactions on Sustainable Computing](https://ieeexplore.ieee.org/abstract/document/10971245).
+- 01/2025: Our submission "A Privacy-aware Quantilisation Approach for Efficient Edge Deep Learning Accelerator" has been accepted in [ISCAS2025](https://2025.ieee-iscas.org/). 
 - 01/2025: Our submission "Late Breaking Results: Approximated LUT-based Neural Networks for FPGA Accelerated Inference" has been accepted in [DATE2025]. 
 - 09/2024: Our research propsoal: "EcoRoutePlanner: Dynamic Daily Route Planning and Scheduling for Crew Transfer Vessels in Offshore Wind Farms" has been accepted under "IUK Smart Shipping Acceleration Fund". 
 - 07/2024: Our latest research work on multiplier-free AI accelerator has been submitted to TCAD for peer review, preprints version is avaiable from [arxiv](https://arxiv.org/abs/2407.02362). 
