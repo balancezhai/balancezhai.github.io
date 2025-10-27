@@ -27,8 +27,12 @@ redirect_from:
 
 **News**
 Please visit our [research projects page](https://balancezhai.github.io/portfolio/) for details of the news.
+- 10/2025: We have started IUK-Semiconductor call funded project: LightDISC, which aims to creating an advanced, low-impact hardware monitoring system for RISC-V processor. This system will help engineers rapidly identify potential design flaws,pinpoint performance bottlenecks, optimise power usage and provide the overallreliability and security of semiconductor hardware, all without significantly affectingthe chip's size or energy consumption.
+- 09/2025: Our IUK funded project has been awarded 'Best KTP Project' in [Essex bussiness Innovation](https://www.youtube.com/watch?v=A7VVBkERM9k). 
+- 09/2025: Our submission "Self-supervised learning enhances accuracy and data efficiency in lower-limb joint moment estimation from gait kinematics" has been accepted by [Front. Bioeng. Biotechnol.](https://doi.org/10.3389/fbioe.2025.1633513).
+- 08/2025: Our paper "A System for Automatic Reporting of Technician Movements During Offshore Maintenance Trips" has been awarded 'Best Student Paper' in [ICAC-2025](10.1109/ICAC65379.2025.11196197).
 - 06/2025: We have won Research Institute for Secure Hardware and Embedded Systems Impact Competition, and awarded £50k for creating our demostrator of on-chip abnormal detection for cyber-physical systems.
-- 06/2025: Our submission "Computationally Efficient FPGA-based Large Language Model Inference for Real-Time Decision-Making in Robotic Systems" has been accepted in [IROS2025](https://www.iros25.org/).
+- 06/2025: Our submission "Computationally Efficient FPGA-based Large Language Model Inference for Real-Time Decision-Making in Robotic Systems" has been accepted in [IROS2025](https://github.com/balancezhai/balancezhai.github.io/blob/master/files/IROS.pdf).
 - 04/2025: Our submission "APPARENT: AI-Powered Platform Anomaly Detection in Edge Computing" has been accepted in [IEEE Transactions on Sustainable Computing](https://ieeexplore.ieee.org/abstract/document/10971245).
 - 01/2025: Our submission "A Privacy-aware Quantilisation Approach for Efficient Edge Deep Learning Accelerator" has been accepted in [ISCAS2025](https://2025.ieee-iscas.org/). 
 - 01/2025: Our submission "Late Breaking Results: Approximated LUT-based Neural Networks for FPGA Accelerated Inference" has been accepted in [DATE2025]. 
