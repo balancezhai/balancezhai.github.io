@@ -32,7 +32,7 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
-| [Muhammad Farooqi] (https://www.essex.ac.uk/people/FAROO16604) | 2025 - Present | Micro Robotics for healthcare |
+| [Muhammad Farooqi](https://www.essex.ac.uk/people/FAROO16604) | 2025 - Present | Micro Robotics for healthcare |
 | [Nelson Kimaro](hhttps://www.essex.ac.uk/people/KIMAR42800) | 2025 - Present   | Sustainable Chip design for Net-Zero |
 | [Shengyang Huang](https://www.essex.ac.uk/people/HUANG11726/shengyang-huang) | 2025 - Present   | Sustainable Chip design for Net-Zero |
 | [Tamim M. Al-Mulla](https://www.essex.ac.uk/people/MAHMU16908) | 2024 - Present   | Predictive Maintenance of a Commercial Off-The-Shelf (COTS) Robotic System in Nuclear Environments |
