@@ -11,7 +11,7 @@ location: "Colchester, UK"
 
 Teaching Modules:
 ======
-- High Level Digital Design/High Level Logic Design: Spring 2020 - Present
+- High Level Digital Design/High Level Logic Design: Spring 2020 - 2023
 - C Programming and Embedded Systems: Autumn 2018 - Present
 
 PhD Supervisions:
