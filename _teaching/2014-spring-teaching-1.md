@@ -14,10 +14,6 @@ Teaching Modules:
 - High Level Digital Design/High Level Logic Design: Spring 2020 - 2023
 - C Programming and Embedded Systems: Autumn 2018 - Present
 
-PhD Supervisions:
-======
-- Issam Boukhennoufa, Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation, 02.2020-present.
-- Yucheng Wang, Epigenetic machine learning: utilizing DNA methylation patterns to predict age acceleration, 10.2019-present.
-- Yufan Lu, Research on self-adaptive hardening scheme for embedded systems in extreme environments, 04.2019-present.
+
 
 
