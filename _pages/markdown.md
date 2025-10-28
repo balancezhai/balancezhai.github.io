@@ -32,16 +32,18 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
+| [Muhammad Farooqi] (https://www.essex.ac.uk/people/FAROO16604) | 2025 - Present | Micro Robotics for healthcare |
 | [Nelson Kimaro](hhttps://www.essex.ac.uk/people/KIMAR42800) | 2025 - Present   | Sustainable Chip design for Net-Zero |
 | [Shengyang Huang](https://www.essex.ac.uk/people/HUANG11726/shengyang-huang) | 2025 - Present   | Sustainable Chip design for Net-Zero |
 | [Tamim M. Al-Mulla](https://www.essex.ac.uk/people/MAHMU16908) | 2024 - Present   | Predictive Maintenance of a Commercial Off-The-Shelf (COTS) Robotic System in Nuclear Environments |
+| [Behnam Gholami](https://www.essex.ac.uk/people/GHOLA81008) | 2024 - Present | Markerless Motion Capture and Human Pose Estimation |
 | [Huaizhi Zhang](https://www.essex.ac.uk/people/ZHANG22840/Huaizhi-Zhang) | 2024 - Present   | Privacy-aware adaptive embedded computing |
 | [Jiacheng Zhu](https://www.essex.ac.uk/people/ZHUJI940033) | 2023 - Present   | Efficient adaptive computing platform for SLAM |
 | [Xuqi Zhu](https://www.essex.ac.uk/people/ZHUXU16003) | 2023 - Present   | [EDGE - Adaptive Deep Learning Hardware for Embedded Platforms](https://balancezhai.github.io/portfolio/portfolio-995/) |
 | [Haidee Tang](https://www.essex.ac.uk/people/TANGH63502s) | 2021 - Present   | Using climatic and imaging data to predict apple flowering time and fruit ripeness                         |
 | [Ludovico Poli](https://www.linkedin.com/in/michal-borowski-521b8790/) | 2022 - Present   | [Non-intrusive debug infrastructure for RISC-V processor](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
-| [Michal Borowski](https://www.linkedin.com/in/michal-borowski-521b8790/) | 2021 - Present   | [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
-| [Issam Boukhennoufa](https://www.linkedin.com/in/issam-boukhennoufa/) | 2020 - 2023   | [Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation](https://balancezhai.github.io/portfolio/protfolio-996/)                          |
+| [Michal Borowski](https://www.linkedin.com/in/michal-borowski-521b8790/) | 2021 - 2025   | [Enforcing Application Behaviour through Type-Based Constraints](https://balancezhai.github.io/portfolio/protfolio-994/#)                          |
+| [Issam Boukhennoufa](https://www.linkedin.com/in/issam-boukhennoufa/) | 2020 - 2024   | [Wearable sensor-based rehabilitation exercise assessment platform for use in stroke rehabilitation](https://balancezhai.github.io/portfolio/protfolio-996/)                          |
 | [Yucheng Wang](https://www.linkedin.com/in/yucheng-wang-278b921b1/)   | 2019 - 2023   | [Epigenetic machine learning: utilizing DNA methylation patterns to predict age acceleration](https://balancezhai.github.io/portfolio/protfolio-997/)                          |
 | [Yufan Lu](https://scholar.google.ae/citations?user=OBZ16uoAAAAJ&hl=en) | 2019 - 2023   | [Self-adaptive embedded hardware for extreme environments](https://balancezhai.github.io/portfolio/portfolio-995/)     |
 
@@ -66,6 +68,12 @@ redirect_from:
 
 | Names                   | Years            | Projects                                                             |
 | --------                | ---------------- | ------------------------------------------------------------ |
+|Liang Zhou|2025 - 2026|	LLM based vision navigation using Unitree Go2 |
+|Rakshitha Aakula Ramachandra|2025 - 2026| A heterogeneous computer vision system using Zynq SoC|
+|DENG SHIHAO|2025 - 2026| Efficient Deployment of Large Language Models on Embedded GPUs|
+|Yizhou Wang|2025 - 2026| Human Pose Estimation with Deep Learning|
+|Angel Ayman Quazi|2025 - 2026| Human Pose Estimation with Deep Learning|
+|Zhengyu Chen |2025 - 2026| A heterogeneous computer vision system using Zynq SoC|
 |CHENG	ZEKAI|2024 - 2025|	Gesture based control of an unmanned aerial vehicle|
 |KAKKAR	MANAS|2024 - 2025|	Safe Navigation of Mobile Robotics|
 |WOLE-ABU	JOSEPH KUKEME PYTHAGORAS|2024 - 2025|	Gesture based operating system controller|
